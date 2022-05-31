@@ -1,0 +1,233 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Measuring the Size of the Economy: Gross Domestic Product</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63586</md:content-id>
+  <md:title>Measuring the Size of the Economy: Gross Domestic Product</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Identify the components of GDP on the demand side and on the supply side</item>
+<item>Evaluate how gross domestic product (GDP) is measured</item>
+<item>Contrast and calculate GDP, net exports, and net national product</item>
+</list></md:abstract>
+  <md:uuid>9e31b021-4fd2-4cb6-9074-5c01226d8002</md:uuid>
+</metadata>
+
+<content>
+<code id="eip-257" display="block"><media id="fs-idm00000091" alt="empirical man">
+      <image mime-type="image/jpeg" src="empiricalman.jpeg "/>
+    </media></code><para id="fs-idp51723072">Macroeconomics is an empirical ("measuring") subject, so the first step toward understanding it is to measure the economy.</para><para id="fs-idp61758576">How large is the South African economy? The size of a nation’s overall economy is typically measured by its <term>gross domestic product (GDP)</term>, which is the value of all final goods and services produced within a country in a given year. The measurement of GDP involves counting up the production of millions of different goods and services—smart phones, cars, music downloads, computers, steel, bananas, school and university educations, and all other new goods and services produced in the current year—and summing them into a total Rand value. This task is straightforward: take the quantity of everything produced, multiply it by the price at which each product sold, and add up the total. In 2015, South Africa's GDP totalled close to R3.06 trillion (Statistics South Africa: 2016), the second largest GDP in Africa after Nigeria. 
+</para><para id="fs-idm27220272">Each of the market transactions that enter into GDP must involve both a buyer and a seller. The GDP of an economy can be measured either by the total Rand value of what is purchased in the economy, or by the total Rand value of what is produced. There is even a third way, as we will explain later.</para><section id="fs-idm74303216"><title>GDP Measured by Components of Demand</title>
+<para id="fs-idm69970080">Who buys all of this production? This <term class="no-emphasis">demand</term> can be divided into four main parts: consumer spending (consumption, C), business spending (investment, I) which includes investment spending by government; government spending on goods and services (government consumption,G), and spending on net exports (Exports, X minus Imports, Z). Table 1 shows the components of GDP from the demand (or expenditure) side and Figure 1 provides a visual of the percentages. GDP at current market prices in 2015 totalled R3,990,953 million.</para><code id="eip-559" display="block"><media id="fs-idm00000092" alt="table shows sa gdp">
+      <image mime-type="image/jpeg" src="../../media/gdptable.3.jpg"/>
+    </media><caption><term>Table 1</term>. Components of SA GDP on the expenditure/demand side, 2015 (South African Reserve Bank: 2016).</caption></code><code id="eip-165" display="block"><media id="fs-idm00000090" alt="This pie chart shows the percentage of components of U.S. GDP on the demand side as follows: Consumption: 68.4% Investment: 16.7% Government: 18.4% Exports: 13.2% Imports: −16.7%">
+      <image mime-type="image/jpeg" src="../../media/gdppie.2.jpg"/>
+    </media>
+    <caption><term>Figure 1.</term>Components of SA GDP on the expenditure/demand side, 2015 (Components of SA GDP on the expenditure/demand side (South African Reserve Bank: 2016)</caption></code><note id="fs-idp7850816" class="economics clearup">
+      <title>What is meant by the word “investment”?</title>
+<para id="fs-idp2728208">What do economists mean by investment, or business spending? In calculating GDP, investment does NOT refer to the purchase of shares or unit trusts on the stock exchange or bonds or the trading of financial assets. It refers to the purchase of new capital goods, that is, new commercial real estate (such as buildings, factories, and stores) and equipment, residential housing construction, and inventories (goods that have been produced but not yet sold). Inventories that are produced in the current year are included in the current year’s GDP—even if they have not yet been sold. From the accountant’s perspective, it is as if the firm invested in its own inventories. Gross investment spending (which includes government investment spending) as at quarter 4 in 2015 was R813,319 million (i.e. over R800 billion) according to the South African Reserve Bank. </para></note>
+<para id="fs-idm59542880">Consumption expenditure by households is the largest component of GDP, accounting for about two-thirds of the GDP in any year. This tells us that consumers’ spending decisions are a major driver of the economy. However, consumer spending is a gentle elephant: when viewed over time, it does not jump around too much.</para>
+<para id="fs-idm139850480"><term class="no-emphasis">Investment expenditure</term> refers to purchases of physical plant and equipment, primarily by businesses (although government investment spending is included in "Investment" spending, I). If Checkers builds a new store, or Toyota buys robots, these expenditures are counted under business investment. If the Department of Home Affairs buys new fingerprint scanners to process identity documents and passports this would also be termed "investment" spending.<term class="no-emphasis"> Investment demand</term> is far smaller than <term class="no-emphasis">consumption demand</term>, typically accounting for only about 15–18% of GDP, but it is very important for the economy because this is where jobs are created. However, it fluctuates more noticeably than consumption. Investment spending is volatile; new technology or a new product can boost business investment, but then confidence can drop and business investment can pull back sharply.</para><para id="fs-idm70032704">If you have noticed any of the infrastructure projects (electrification, 2010 Football World Cup stadiums, new bridges, highways, airports, ports, schools, universities, clinics) launched since 1994, you should appreciate how important government spending can be for the economy. Government expenditure in South Africa ranges between 20-25% of GDP, and includes spending by all three levels of government: local, provincial, and national. The only part of government spending counted in demand is government purchases of goods or services produced in the economy. Examples include the government buying a new fighter jet for the Air Force (national government spending), building a new provincial road (provincial government spending), or preparing a new refuse dump site (local government spending). A significant portion of government budgets are transfer payments, like pension and unemployment benefits, military veteran’s benefits, and Social Security payments such as child care and disability grants etc. These payments are excluded from GDP because the government does not receive a new good or service in return or exchange. Instead they are transfers of income from taxpayers to others. If you are curious about the awesome undertaking of adding up GDP, read the following Clear It Up feature.</para><note id="fs-idm64181600" class="economics clearup">
+      <title>How do statisticians measure GDP?</title>
+<para id="fs-idp6243520">Government economists at the South African Reserve Bank and Statistics South Africa put together estimates of GDP from a variety of sources.</para><para id="eip-460">The compilation of national accounts statistics in South Africa is undertaken by the National Accounts Division at the South African Reserve Bank and Statistics South Africa, both located in Pretoria (International Monetary Fund: 2016). Statistics South Africa is responsible for compiling the production side of the national accounts, while the Reserve Bank is responsible for compiling the expenditure side of the national accounts, as well as a comprehensive set of production, distribution and accumulation accounts in an integrated manner for the institutional sectors and the balance of payments.The reconciliation of any statistical discrepancy between  GDP compiled by the production approach and GDP compiled from the expenditure approach is allocated in the residual item.</para><para id="fs-idp2343696">Five yearly surveys of household expenditure in the country are used to estimate the average household's expenditure on goods and services. This average value per household and per type of product or service is then multiplied by the number of households according to the population census to obtain total expenditure on goods and services. This approach ensures that a large part of the informal economy's production is included in private consumption expenditure. Retail trade sales published in the monthly survey of retail trade by Statistics South Africa are also used to produce estimates of consumer expenditure. Data published by the Retailer Liaison Committee and other appropriate surveys are used to confirm the accuracy of household consumption expenditure estimates (International Monetary Fund: 2016). 
+
+</para><para id="fs-idp36393760">Gross fixed capital formation by the private sector is estimated according to the information obtained from the surveys conducted by Statistics South Africa for the various sectors of the economy (International Monetary Fund: 2016). Estimates of fixed capital expenditure on private residential buildings are calculated from Statistics South Africa's information of buildings completed, while outlays on machinery and transport equipment are verified from the South African Reserve Bank's balance of payments data. For public corporations, outlays on fixed capital formation are recorded from information obtained by the South African Reserve Bank from annual and quarterly surveys of the corporations. Estimates of fixed capital formation by the general government are obtained from analyses of the government finance statistics.</para><para id="fs-idm30437440">Estimates of consumption expenditure by general government on goods and services are compiled from Government Finance Statistics (GFS), analysis and Statistics South Africa publications (International Monetary Fund: 2016). </para><para id="fs-idp3875856">With regard to foreign trade, the South African African Revenue Service (SARS) is the legislatively empowered controlling entity for statistics on the importation and exportation of goods. Trade statistics are published on the last business day of every month, for the previous month. </para><para id="eip-206">All of these bits and pieces of information arrive in different forms, at different time intervals. The national income accountants mix and match them together to produce estimates (it is not possible to compute exact values) of GDP on a quarterly basis (every three months). These numbers are then “annualized” by multiplying by four. As more information comes in, these estimates are updated and revised, often up to a year later. </para></note>
+<para id="fs-idp31338800">When thinking about the demand for domestically produced goods in a global economy, it is important to count spending on exports—domestically produced goods that are sold abroad. By the same token, we must also subtract spending on imports—goods produced in other countries that are purchased by residents of this country. The net export component of GDP is equal to the Rand value of exports (X) minus the Rand value of imports (Z), (X – Z). The gap between exports and imports is called the <term>trade balance</term>. If a country’s exports are larger than its imports, then a country is said to have a <term>trade surplus</term>. </para><para id="fs-idp42167040">Since the early 2000s, imports have typically exceeded exports, and so South Africa has experienced <term>trade deficits</term> in most years since then (Trading Economics: 2016). Indeed, the trade deficit deteriorated significantly after 2013. If exports and imports are equal, foreign trade has no effect on total GDP. However, even if exports and imports are balanced overall, foreign trade might still have powerful effects on particular industries and workers by causing nations to shift workers and physical capital investment toward one industry rather than another.</para><para id="fs-idp44476784">Based on these four components of demand, GDP can be measured as:</para>
+<para id="eip-975">GDP = CONSUMPTION + INVESTMENT + GOVERNMENT + TRADE BALANCE 
+</para><para id="eip-414">GDP = C + I + G + (X-Z)</para><para id="fs-idm55399680">Understanding how to measure GDP is important for analyzing connections in the macro economy and for thinking about macroeconomic policy tools.</para>
+</section>
+<section id="fs-idp68510624"><title>GDP Measured by What is Produced</title>
+<para id="fs-idp110068704">Everything that is purchased must be produced first. Table 2 breaks down what is produced by the different production sectors in the economy: primary, secondary and tertiary. Note that the total gross value of production (R3,990,953m), adjusting for taxes and subsidies on products, is exactly the same as GDP at market prices measured by looking at the five components of expenditure/demand in Table 1. This helps us to understand a simple truth: the value of expenditure must always be approximately equal to the value of production.</para><code id="eip-32" display="block"><media id="fs-idp00000094" alt="The table shows gdp by sector.">
+      <image mime-type="image/jpeg" src="../../media/gdpbysectortable.jpeg"/>
+    </media><caption><term>Table 2.</term>South African GDP by sector in 2015 (South African Reserve Bank: 2016)</caption></code><code id="eip-285" display="block"><media id="fs-idp00000093" alt="The table shows gdp by sector.">
+      <image mime-type="image/jpeg" src="../../media/gdpbysector.jpg"/>
+    </media><caption><term>Figure 2.</term>GDP by sector, 2015 (South African Reserve Bank: 2016)</caption></code><para id="fs-idp5083808">Since every market transaction must have both a buyer and a seller, GDP must be the same whether measured by what is demanded/purchased or by what is produced. </para><para id="fs-idp38511648">In thinking about what is produced in the economy, many non-economists immediately focus on physical products such as crops or minerals (primary sector) or manufactured products such clothing, cars and computers (secondary sector). By far the largest part of GDP, however, is services (tertiary sector). These include services such as schooling, healthcare, transport, financial services and many more. In addition, services have been a growing share of GDP over time in most countries. It has been decades since most of the South African economy involved making solid objects. Instead, the most common jobs in a modern economy involve a worker looking at pieces of paper or a computer screen; meeting with co-workers, customers, or suppliers; or making phone calls.</para><para id="eip-699"><title>Three different ways of measuring GDP</title>We have observed from the circular flow model that economic activity consists, essentially, of just three interdependent flows: spending which gives rise to production which, in turn, yields income. One measure of the size of these flows is, as we have seen, GDP. We have also demonstrated that, whether one computes the value of <term>spending/expenditure</term> or the value of <term>production</term> which is the focus of the expenditure, it all amounts to the same thing: the value of spending must be the same as the value of production. </para><para id="eip-633">By the same token, goods and services sold by producers must bring in <term>income</term> equal in value to what consumers paid or spent on these items. So the value of spending on goods and services must be equal to the value of production which, in turn, must be equal to the value of income earned from the sale of these goods and services. Well, maybe not exactly. Remember that taxes on goods and services will make them more expensive (artificially increase their market "value) while subsidies for certain goods and services will reduce the market price or "value" of these items. However, if we make the necessary adjustments for taxes and subsidies, we should find that GDP can indeed be measured using any one of three methods: expenditure, production or income. All should give the same answer.</para><para id="eip-913">Table 3 shows the computation of GDP using the income method. So by adding up the income earned by the owners of the factors of production, and adjusting for taxes and subsidies, we find that GDP calculated using the income approach is the same as GDP calculated using the expenditure or production methods. Compensation of employees refers to wages and salaries while net operating surplus is an umbrella category which records income to the owners of productive resources (including profit, rental income and interest). Consumption of fixed capital refers to the portion of income from production that must be used to replace depreciated (used up) capital i.e. machines, equipment, buildings etc.</para><code id="eip-38" display="block"><media id="fs-idp00000096" alt="The table shows gdp income approach.">
+      <image mime-type="image/jpeg" src="../../media/tabley.jpeg"/>
+    </media><caption><term>Table 3.</term> Computing GDP using the income approach (South African Reserve Bank: 2016)</caption></code></section>
+<section id="fs-idp98408752"><title>The Problem of Double Counting</title>
+<para id="fs-idp104208128">GDP is defined as the current value of all final goods and services produced in a nation in a year. What are final goods? They are goods at the furthest stage of production at the end of a year. Statisticians who calculate GDP must avoid the mistake of <term>double counting</term>, in which output is counted more than once as it travels through the stages of production. For example, imagine what would happen if government statisticians first counted the value of tyres produced by a tyre manufacturer, and then counted the value of a new truck sold by a truck manufacturer that contains those tyres. In this example, the value of the tyres would have been counted twice-because the price of the truck includes the value of the tyres.</para><para id="fs-idp154844816">To avoid this problem, which would overstate the size of the economy considerably, government statisticians count just the value of <term>final goods and services</term> (or <term>value added)</term> in the chain of production that are sold for consumption, investment, government, and trade purposes. <term>Intermediate goods</term>, which are goods that go into the production of other goods, are excluded from GDP calculations. From the example above, only the value of the Ford truck will be counted. The value of what businesses provide to other businesses is captured in the final products at the end of the production chain.</para><para id="fs-idp118183984">The concept of GDP is fairly straightforward: it is just the Rand value of all final goods and services produced in the economy in a year. In our decentralized, market-oriented economy, actually calculating the roughly 4 trillion-Rand South African GDP—along with how it is changing every few months—is a full-time job for an army of government statisticians.</para><code id="eip-406" display="block"><media id="fs-idp00000095" alt="The table shows gdp by sector.">
+      <image mime-type="image/jpeg" src="../../media/gdpcount.jpeg"/>
+    </media><caption><term>Table 4.</term> Counting GDP</caption></code><para id="fs-idp76615216">Notice the items that are not counted into GDP, as outlined in Table 4. The sales of used goods are not included because they were produced in a previous year and are part of that year’s GDP. The entire underground economy of services paid “under the table” and illegal sales should be counted, but is not, because it is impossible to track these sales. Visser (2014) estimated that South Africa's informal economy contributes about 5% to the country's GDP (about R200 billion annually). Transfer payments, such as payment by the government to individuals (state pensions, grants and other welfare payments),  are not included, because they do not represent production. Also, production of some goods/services—such as when you make your own breakfast, do your own laundry, fix your own car—is not counted because these goods are not sold in the marketplace.</para><section id="eip-924"><title>Other measures of domestic economic activity</title><para id="eip-883">
+Measures of the levels of economic activity (by value) of a country are distorted by taxes on products and production and by subsidies on products and production. Taxes on products and production artificially inflate the market value of goods and services, while subsidies on products and production deflate their market value. By adjusting GDP at market prices to take account of taxes and subsidies on products and production, we can get a more precise estimate of the value and hence level of economic activity.
+</para><para id="eip-161"><title>GDP at basic prices</title>We will start by adjusting GDP at market prices to take account of taxes and subsidies on products. This adjustment will give us the value of products based on "pure" or basic prices (prices that are not artificially inflated by taxes or artificially deflated by subsidies). </para><para id="eip-642">GDP@basic prices = GDP@market prices + subsidies on products - taxes on products. </para><para id="eip-575">Table 5 reflects the computation of South Africa's GDP at basic prices for 2015.    </para><code id="eip-577" display="block"><media id="fs-idp00000097" alt="The table shows gdp basic.">
+      <image mime-type="image/jpeg" src="../../media/tablebasic.jpeg"/>
+    </media><caption><term>Table 5.</term> GDP at basic prices (South African Reserve Bank: 2016)</caption></code><para id="eip-592"><title>GDP at factor cost</title>GDP@basic prices can be further refined to get the most accurate estimate possible of the true value or cost of production. GDP at factor cost is the true value of income earned by the factors of production uncomplicated by taxes or subsidies. </para><para id="eip-726">So even though GDP@basic prices accounts for taxes and subsidies on specific products, it does not take into consideration that production <term>processes</term> may be taxed or subsidised. Taxes on the production process, and subsidies benefiting producers will ultimately be reflected in prices and thus market value. Taxes on production, like taxes on specific products, will inflate prices and market value. Subsidies on production, like subsidies on specific products, will depress prices and market value. So to get a true picture of the real cost or value of production, we need to deduct from GDP@basic prices any taxes on production and add back the value of any subsidies on production. </para><para id="eip-307">GDP@factor cost = GDP@basic prices - other taxes on production + other subsidies on production</para><para id="eip-185">Table 6 reflects the computation of South Africa's GDP at factor cost for 2015. </para><code id="eip-401" display="block"><media id="fs-idp00000098" alt="The table shows gdp factor cost.">
+      <image mime-type="image/jpeg" src="../../media/tablefactor.jpeg"/>
+    </media><caption><term>Table 6.</term> GDP at factor cost (South African Reserve Bank: 2016) </caption></code></section></section>
+<section id="fs-idp12355168"><title>Other Ways to Measure the Economy</title>
+<para id="fs-idp32767312"><title>Gross Domestic Expenditure</title>Besides GDP, there are several different but closely related ways of measuring the size of the economy. One of these that is of particular interest is Gross Domestic Expenditure (GDE). This measure gauges the strength of local or domestic spending and so excludes foreign spending on locally produced exports (exports). Thus GDE measures only domestic consumption spending (C), domestic investment spending (I) and government consumption expenditure (G). It is important to note that GDE includes spending on imports (Z) which may form part of domestic consumption, investment and government spending. GDE is calculated as:</para><equation id="eip-589">GDE = C + I + G</equation><para id="eip-623">Table 7 shows the calculation of South Africa's GDE for 2015.</para><code id="eip-774" display="block"><media id="fs-idp00000099" alt="The table shows gde.">
+      <image mime-type="image/jpeg" src="../../media/gde1.jpeg"/>
+    </media><caption><term>Table 7. </term> Gross Domestic Expenditure, 2015 (South African Reserve Bank: 2016) </caption></code><para id="eip-28">We mentioned above that GDP can be thought of as total production or as total expenditure/purchases. It can also be thought of as total income since anything produced and sold produces income.</para><para id="fs-idm67605408"><title>Gross National Income or Gross National Product</title>Another close cousin of gross domestic product (GDP) is the <term>gross national product (GNP)</term> or <term>gross national income (GNI) </term>. GDP includes only what is produced within a country’s borders. GNP/GNI adds what is produced by domestic businesses and labor abroad, and subtracts out any payments sent home to other countries by foreign labor and businesses located in South Africa. In other words, GNP is based more on the production of citizens and firms of a country, wherever they are located, and GDP is based on what happens within the geographic boundaries of a certain country. For South Africa, the gap between GDP and GNP is relatively small; in recent years, only about 2.5% of GDP (and GDP always tending to be greater than GNP in South Africa's case). For smaller and less developed economies such as Lesotho and Mocambique, for example, the difference can be substantial. The relationship between GDP and GNP/GNI is described by this equation:</para><equation id="eip-978">GNP/GNI = GDP + primary income receipts from the rest of the world - primary income payments to the rest of the world</equation><para id="eip-697">Table 8 shows the calculation of South Africa's GNP/GNI for 2015.</para><code id="eip-842" display="block"><media id="fs-idp00000100" alt="The table shows gnp.">
+      <image mime-type="image/jpeg" src="../../media/gnp.jpeg"/>
+    </media><caption><term>Table 8.</term> Gross National Product/Income at market prices, 2015 (South African Reserve Bank: 2016)</caption></code><para id="fs-idp32378176"><title>Net National Product</title><term>Net national product (NNP)</term> is calculated by taking GNP and then subtracting the value of how much physical capital is worn out, or reduced in value because of ageing, over the course of a year. The process by which capital ages and loses value is called <term>depreciation</term> or<term> consumption of fixed capital</term>. The NNP can be further subdivided into <term>national income</term>, which includes all income to businesses and individuals, and personal income, which includes only income to people.Table 9 computes South Africa's NNP for 2015.  </para><code id="eip-925" display="block"><media id="fs-idp00000101" alt="The table shows nnp.">
+      <image mime-type="image/jpeg" src="../../media/nnp.jpeg"/>
+    </media><caption><term>Table 9. </term> Net National Product or Net National Income, 2015 (South African Reserve Bank: 2016).</caption></code><para id="fs-idp51237184">It is important to be aware of the differences between the main national income accounts/statistics so that you do not accidentally compare, say, GDP in one year or for one country with GNP or NNP in another year or another country. To get an idea of how these calculations work, follow the steps in the following Work It Out feature.</para><note id="fs-idp39724256" class="economics workout">
+      <title>Calculating GDP, Net Exports, and NNP</title>
+<para id="fs-idp89015168">Based on the information in Table 10 for an imaginary small economy using Rands :
+      <list id="fs-idp50883680" list-type="enumerated" number-style="lower-alpha">
+        <item>What is the value of GDP?</item>
+        <item>What is the value of net exports?</item>
+        <item>What is the value of NNP?</item>
+      </list>
+</para><code id="eip-142" display="block"><title>Table 10 Imaginary data to calculate GDP and NNP</title><media id="fs-idp00000102" alt="The table shows nnp.">
+      <image mime-type="image/jpeg" src="../../media/gdpworkitout.jpeg"/>
+    </media></code><para id="fs-idp101104080">Step 1. To calculate GDP use the following formula:</para>
+<para id="eip-668">GDP = Consumption + Investment + Government spending + (Exports – Imports)</para><para id="eip-319">= C + I + G + (X – M)</para><para id="eip-48">R400bn + R60bn + R120bn + (R100 – R120)bn = R560 billion</para><para id="fs-idp52785856">Step 2. To calculate net exports, subtract imports from exports.</para>
+<para id="eip-877">Net exports = X – M = R100bn – R120bn = –R20 billion</para><para id="fs-idp26542592">Step 3. To calculate NNP, use the following formula:</para>
+<para id="eip-661">NNP = GDP + Income receipts from the rest of the world– Income payments to the rest of the world – Depreciation </para><para id="eip-108">R560bn + R10bn – R8bn – R40bn = R522 billion</para></note>
+</section>
+<section id="fs-idm28040352" class="summary">
+  <title>Key Concepts and Summary</title>
+<para id="fs-idm29037568">The size of a nation’s economy is commonly expressed as its gross domestic product (GDP), which measures the value of the output of all goods and services produced within the country in a year. GDP is measured by taking the quantities of all goods and services produced, multiplying them by their prices, and summing the total. Since GDP measures what is bought and sold in the economy, it can be measured either by the sum of what is purchased in the economy or what is produced.</para>
+<para id="fs-idm49517808">Expenditure or demand can be divided into consumption, investment, government, exports, and imports. What is produced in the economy can be divided into durable goods, nondurable goods, services, structures, and inventories. To avoid double counting, GDP counts only final output of goods and services, not the production of intermediate goods or the value of labor in the chain of production.</para></section>
+<section id="fs-idp4791344" class="self-check-questions">
+  <title>Self-Check Questions</title>
+  <exercise id="fs-idm47655952">
+    <problem id="fs-idm23939408">
+      <para id="fs-idm26227632">Country A has export sales of R20 billion, government purchases of R1,000 billion, business investment is R50 billion, imports are R40 billion, and consumption spending is R2,000 billion. What is the Rand value of GDP?</para></problem>
+    <solution id="fs-idp10842448"><para id="fs-idm860160">GDP is C + I + G + (X – M). GDP = R2,000 billion + R50 billion + R1,000 billion + (R20 billion – R40 billion) = R3,030 billion</para></solution>
+  </exercise>
+  <exercise id="fs-idp28849744">
+    <problem id="fs-idm20973728">
+      <para id="fs-idm60905648">Which of the following are included in GDP, and which are not?
+      <list id="fs-idm2272368" list-type="enumerated" number-style="lower-alpha">
+        <item>The cost of hospital stays</item>
+        <item>The rise in life expectancy over time</item>
+        <item>Child care provided by a licensed day care center</item>
+        <item>Child care provided by a grandmother</item>
+        <item>The sale of a used car</item>
+        <item>The sale of a new car</item>
+        <item>The greater variety of cheese available in supermarkets</item>
+        <item>The iron that goes into the steel that goes into a refrigerator bought by a consumer.</item>
+      </list>
+      </para>
+    </problem>
+    <solution id="fs-idm66254000"><para id="fs-idm67244816">
+<list id="fs-idm1468144" list-type="enumerated" number-style="lower-alpha"><item>Hospital stays are part of GDP.</item>
+        <item>Changes in life expectancy are not market transactions and not part of GDP.</item>
+        <item>Child care that is paid for is part of GDP.</item>
+        <item>If Grandmother gets paid and reports this as income, it is part of GDP, otherwise not.</item>
+        <item>A used car is not produced this year, so it is not part of GDP.</item>
+        <item>A new car is part of GDP.</item>
+        <item>Variety does not count in GDP, where the cheese could all be cheddar.</item>
+        <item>The iron is not counted because it is an intermediate good.</item>      </list></para></solution>
+  </exercise>
+</section>
+<section id="fs-idp45742656" class="review-questions">
+  <title>Review Questions</title><exercise id="fs-idm767360">
+    <problem id="fs-idm49436128">
+      <para id="fs-idp3991184">What are the main components of measuring GDP with reference to demand or expenditure?</para></problem>
+  </exercise>
+  <exercise id="fs-idm26623040">
+    <problem id="fs-idp47519920">
+      <para id="fs-idm33004768">What are the main components of measuring GDP with reference to what is produced?</para></problem>
+  </exercise>
+  <exercise id="fs-idm9525008">
+    <problem id="fs-idm768144">
+      <para id="fs-idm32974896">Would you usually expect GDP as measured by what is demanded or spent to be greater than GDP measured by what is supplied/produced, or the reverse?</para></problem>
+  </exercise>
+  <exercise id="fs-idm60633184">
+    <problem id="fs-idm9399824">
+      <para id="fs-idm17494208">Why must double counting be avoided when measuring GDP?</para>
+    </problem>
+  </exercise>
+</section>
+<section id="fs-idm31922224" class="critical-thinking">
+  <title>Critical Thinking Question</title>
+  <para id="eip-69"><title>Exercise 7</title>What does GDP not tell us about the economy?</para></section>
+<section id="fs-idp47963360" class="problems">
+  <title>Problem</title>
+  <para id="eip-732"><title>Exercise 8</title>Last year, a small nation with abundant forests cut down R200,000 worth of trees (natural forest). R100,000 worth of trees were then turned into R150,000 worth of timber (planks). R100, 000 worth of that timber was used to produce R250,000 worth of bookshelves. Assuming the country produces no other outputs, and there are no other inputs used in the production of trees, timber, and bookshelves, what is this nation's GDP? In other words, what is the value of the final goods produced including trees, timber and bookshelves?</para></section>
+<section id="fs-idm2071472" class="references">
+<title>References</title>
+<para id="eip-942">International Monetary Fund. 2016. Special Data Dissemination Standard. South Africa National Accounts -GDP - Expenditure Method. International Monetary Fund. Dissemination Standards Bulletin Board, January 5, 2016. Available: http://dsbb.imf.org/pages/sdds/DQAFBase.aspx?ctycode=ZAFandcatcode=NAG01  (Accessed: 17 July 2016)
+</para><para id="eip-79">South African Reserve Bank. 2016. Economic and Financial Data for South Africa.  July 13, 2016. Available: http://wwwrs.resbank.co.za/webindicators/EconFinDataForSA.aspx 
+(Accessed: 17 July 2016)
+
+</para><para id="eip-297">Statistics South Africa. 2016.  Press Statement. Revised estimates of GDP: 2010 - 2015.  Statistics South Africa, P0441, May 23, 2016.  Available: http://www.statssa.gov.za/publications/P0441/P0441May2016.pdf  (Accessed: 18 Jul 2016)
+</para><para id="eip-264">Trading Economics. 2016. South Africa balance of trade 1957-2016. Available:
+http://www.tradingeconomics.com/south-africa/balance-of-trade  (Accessed: 18 July 2016)
+ </para><para id="eip-51">Visser, A. 2014. Informal sector’s contribution to GDP is stagnant. Business Day live, 15 August 2014. Available: 
+http://www.bdlive.co.za/economy/2014/08/15/informal-sectors-contribution-to-gdp-is-stagnant  (Accessed: 18 July 2016)
+</para></section>
+
+</content>
+<glossary>
+   <definition id="fs-idm161172336">
+      <term>depreciation</term>
+      <meaning id="fs-idm140874752">the process by which capital ages over time and therefore loses its value</meaning>
+    </definition>
+   <definition id="fs-idm126759216">
+      <term>double counting</term>
+      <meaning id="fs-idm107687408">a potential mistake to be avoided in measuring GDP, in which output is counted more than once as it travels through the stages of production</meaning>
+    </definition>
+   <definition id="fs-idm57094944">
+      <term>durable good</term>
+      <meaning id="fs-idm110678288">long-lasting good like a car or a refrigerator
+</meaning>
+    </definition>
+   <definition id="fs-idm80257568">
+      <term>final good and service</term>
+      <meaning id="fs-idm57595264">output used directly for consumption, investment, government, and trade purposes; contrast with “intermediate good”</meaning>
+    </definition>
+   <definition id="fs-idm97899248">
+      <term>gross domestic product (GDP)</term>
+      <meaning id="fs-idm110168080">the value of the output of all goods and services produced within a country in a year
+</meaning>
+    </definition>
+   <definition id="fs-idm49989376">
+      <term>gross national product (GNP)</term>
+      <meaning id="fs-idm97558432">includes what is produced domestically and what is produced by domestic labor and business abroad in a year
+</meaning>
+    </definition>
+   <definition id="fs-idm74486256">
+      <term>intermediate good</term>
+      <meaning id="fs-idm85030448">output provided to other businesses at an intermediate stage of production, not for final users; contrast with “final good and service”</meaning>
+    </definition>
+   <definition id="fs-idm65459520">
+      <term>inventory</term>
+      <meaning id="fs-idm84222976">good that has been produced, but not yet been sold</meaning>
+    </definition>
+   <definition id="fs-idm74957648">
+      <term>national income</term>
+      <meaning id="fs-idm97588256">includes all income earned: wages, profits, rent, and profit income
+</meaning>
+    </definition>
+   <definition id="fs-idm77297152">
+      <term>net national product (NNP)</term>
+      <meaning id="fs-idm1713792">GDP minus depreciation
+</meaning>
+    </definition>
+   <definition id="fs-idm43268672">
+      <term>nondurable good</term>
+      <meaning id="fs-idm101605344">short-lived good like food and clothing
+</meaning>
+    </definition>
+   <definition id="fs-idm27665664">
+      <term>service</term>
+      <meaning id="fs-idm1857536">product which is intangible (in contrast to goods) such as entertainment, healthcare, or education
+</meaning>
+    </definition>
+   <definition id="fs-idm153140624">
+      <term>structure</term>
+      <meaning id="fs-idm65187104">building used as residence, factory, office building, retail store, or for other purposes
+</meaning>
+    </definition>
+   <definition id="fs-idm25549936">
+      <term>trade balance</term>
+      <meaning id="fs-idm55648976">gap between exports and imports
+</meaning>
+    </definition>
+   <definition id="fs-idm4661728">
+      <term>trade deficit</term>
+      <meaning id="fs-idm73214896">exists when a nation's imports exceed its exports and is calculated as imports –exports
+</meaning>
+    </definition>
+   <definition id="fs-idm76674080">
+      <term>trade surplus</term>
+      <meaning id="fs-idm81033696">exists when a nation's exports exceed its imports and is calculated as exports – imports
+</meaning>
+    </definition>
+</glossary>
+
+</document>

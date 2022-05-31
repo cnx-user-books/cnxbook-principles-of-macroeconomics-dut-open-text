@@ -1,0 +1,127 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Indexing and Its Limitations</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63650</md:content-id>
+  <md:title>Indexing and Its Limitations</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Explain the relationship between indexing and inflation</item>
+<item>Identify three ways the government can control inflation through macroeconomic policy</item></list></md:abstract>
+  <md:uuid>bcc8a7d9-a7f3-4a80-acc1-dd6548d607fd</md:uuid>
+</metadata>
+
+<content>
+ <para id="fs-idm44831040">When a price, wage, or interest rate is adjusted automatically with inflation, it is said to be <term>indexed</term>. An indexed payment increases according to the index number that measures inflation (e.g. the CPI or PPI). A wide array of indexing arrangements is observed in <term class="no-emphasis">private markets</term> and government programs. Since the negative effects of inflation depend in large part on having inflation unexpectedly affect one part of the economy but not another—say, increasing the prices that people pay but not the wages that workers receive—indexing will take some of the sting out of inflation. So inflation <term>indexing</term> helps people to <term>anticipate</term> or expect inflation so that they can take the necessary precautions to limit its damage.</para><section id="fs-idp17265568">
+<title>Indexing in Private Markets</title>
+<para id="fs-idp44842384">In the 1970s and 1980s (a period of high inflation worldwide), trade unions commonly negotiated wage contracts that had <term>cost-of-living adjustments (COLAs)</term> which guaranteed that their wages would keep up with inflation. These contracts were sometimes written as, for example, COLA plus 3%. Thus, if inflation was 5%, the wage increase would automatically be 8%, but if inflation rose to 9%, the wage increase would automatically be 12%. COLAs are a form of indexing applied to wages even today in South Africa.</para><para id="fs-idm26882048">Loans advanced by lending institutions (such as banks) often have built-in inflation adjustments, too, so that if the inflation rate rises by two percentage points, then the interest rate charged on the loan rises by two percentage points as well. An <term>adjustable-rate mortgage (ARM)</term> or home loan is a kind of loan used to purchase a home in which the interest rate varies with the rate of inflation. Often, a borrower will be able receive a lower interest rate if borrowing with an ARM, compared to a fixed-rate loan. The reason is that with an ARM, the lender is protected against the risk that higher inflation will reduce the real loan payments, and so the risk premium part of the interest rate can be correspondingly lower.</para><para id="fs-idp8705712">A number of ongoing or long-term business contracts also have provisions that prices will be adjusted automatically according to inflation. Sellers like such contracts because they are not locked into a low nominal selling price if inflation turns out higher than expected; buyers like such contracts because they are not locked into a high buying price if inflation turns out to be lower than expected. A contract with automatic adjustments for inflation in effect agrees on a real price to be paid, rather than a nominal price.</para>
+</section>
+
+<section id="fs-idm40555904">
+<title>Indexing in Government Programs</title>
+<para id="fs-idm31145280">Many government programs are indexed to inflation. The income tax codes of some countries, for example, are designed so that as a person’s nominal income rises in line with inflation, they do not automatically get pushed into a higher income tax bracket where they will pay more tax even though their real income has not increased. Instead, the income levels where higher tax rates kick in are indexed to rise automatically with inflation. In South Africa the income tax code is not inflation indexed. The South African Receiver of Revenue Service has opted, rather, to widen the income tax brackets and grant more extensive income tax rebates to counter the effects of bracket creep or fiscal drag (Bechard: 2016). Yet another example of government employing inflation indexing is South Africa's social grant program. In the 2016/17 financial year, the old-age pension was increased by R90 and the child-support grant by R20 to limit the effects of inflation (South Africa. National Treasury: 2016).</para><code id="eip-969" display="block"><media id="fs-idm00000149" alt="empirical man">
+      <image mime-type="image/jpeg" src="TAXBRACK.jpeg "/>
+    </media><caption><term>Figure 1</term>  Fighting bracket creep</caption></code><para id="fs-idm7627072">Another example of a South African government program affected by indexing is its decision in 2004 to offer inflation linked or indexed <term class="no-emphasis">bonds</term> (RSA Retail Savings Bonds). Bonds are a means by which the government (and many private-sector companies as well) borrows money; that is, investors buy the bonds, and then the government repays the money with interest. Traditionally, government bonds have paid a fixed rate of interest (some still do). This policy gave a government that had borrowed an incentive to encourage inflation, because it could then repay its past borrowing in inflated Rands at a lower real interest rate. But indexed bonds promise to pay a certain real rate of interest above whatever inflation rate occurs. In the case of a retired person trying to plan for the long term and worried about the risk of inflation, for example, indexed bonds that guarantee a rate of return higher than inflation—no matter the level of inflation—can be a very helpful investment.</para></section>
+
+<section id="fs-idm6030352">
+<title>Might Indexing Reduce Concern over Inflation?</title>
+<para id="fs-idp955728">Indexing may seem like an obviously useful step. After all, when individuals, firms, and government programs are indexed against inflation, then people can worry less about arbitrary redistributions of income and other effects of inflation.</para><para id="fs-idp30553744">However, some of the fiercest opponents of inflation express serious concern about indexing. They point out that indexing is always partial. Not every employer will provide Cost of Living Adjustments (COLAs) for workers. Not all companies can assume that costs and revenues will rise exactly in line with the general rates of inflation. Not all interest rates for borrowers and savers will change to match inflation exactly. But as partial inflation indexing spreads, the political opposition to inflation may diminish. After all, older people whose Social Security benefits are protected against inflation, or banks that have loaned their money with adjustable-rate loans, no longer have as much reason to care whether inflation heats up. In a world where some people are indexed against inflation and some are not, financially knowledgeable businesses and investors may seek out ways to be protected against inflation, while the financially unsophisticated and small businesses may suffer from it most.</para></section>
+
+<section id="fs-idp10062352">
+<title>A Preview of Policy Discussions of Inflation</title>
+<para id="fs-idp72620080">This chapter has focused on how inflation is measured, historical experience with inflation, how to adjust nominal variables into real ones, how inflation affects the economy, and how indexing works. The causes of inflation have not been discussed and government policies to deal with inflation have not been addressed at all. These issues will be taken up in depth in other chapters. However, it is useful to offer a preview here.</para><para id="fs-idm42998496">The cause of inflation can be summed up in one sentence: too many Rands chasing too few goods. The great surges of global inflation early in the twentieth century came after wars, which are a time when government spending is very high, but consumers have little to buy, because production is going to the war effort. Governments also commonly impose price controls during wartime. After the war, the price controls end and buying power which has been held back suddenly increases, driving up inflation. On the other hand, if too few Rands are chasing too many goods, then inflation will decline or even turn into deflation. Therefore, slowdowns in economic activity, as in major recessions and the Great Depression, are typically associated with a reduction in inflation or even outright deflation.</para><para id="fs-idm37012032">The policy implications are clear. If inflation is to be avoided, the amount of purchasing power in the economy must grow at roughly the same rate as the production of goods. Macroeconomic policies that the government can use to affect the amount of purchasing power—through taxes, spending, and regulation of interest rates and credit—can thus cause inflation to rise or reduce inflation to lower levels.</para>
+
+<note id="fs-idm56178624" class="economics bringhome"><title>A Zimbabwe $550 Million Loaf of Bread?</title>
+<para id="fs-idm115248656">As we will learn in Money and Banking, the existence of money provides enormous benefits to an economy. In a real sense, money is the lubrication that enhances the workings of markets. Money makes transactions easier. It allows people to find employment producing one product, then use the money earned to purchase the other products they need to live on. However, too much money in circulation can lead to inflation. Extreme cases of governments recklessly printing money lead to hyperinflation as in Zimbabwe's experience. Inflation reduces the value of money. Hyperinflation, because money loses value so quickly, ultimately results in people no longer using the official money (as in Zimbabwe's experience). The economy reverts to barter, or it adopts another country’s more stable currency, like United States dollars (as, again, in Zimbabwe's experience). In the meantime, the economy literally falls apart as people leave jobs and fend for themselves because it is not worth the time to work for money that will be worthless in a few days.  For short articles and figures on Zimbabwe's record hyperinflation see Hanke (2009) and Wines (2006). </para><para id="fs-idm575584">Only national governments have the power to cause hyperinflation. Hyperinflation typically happens when government faces extraordinary demands for spending, which it cannot finance by taxes or borrowing. The only option is to print money—more and more of it as in Zimbabwe's experience. With more money in circulation chasing the same amount (or even less) goods and services, the only result is higher and higher prices until the economy and/or the government collapses. This is why economists are generally wary of letting inflation get out of control.</para></note></section>
+
+<section id="fs-idp11765440" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idm43814032">A payment is said to be indexed if it is automatically adjusted for inflation. Examples of indexing in the private sector include wage contracts with cost-of-living adjustments (COLAs) and loan agreements like adjustable-rate mortgages (ARMs) or home-loans. Examples of indexing in the public sector include tax brackets, Social Grant payments and inflation-linked or indexed bonds.</para></section>
+
+<section id="fs-idm39988016" class="self-check-questions">
+<title>Self-Check Questions</title>
+<exercise id="fs-idm54829936"> 
+<problem id="fs-idp40517728">
+<para id="fs-idp4478864">How should an increase in inflation affect the interest rate on an adjustable-rate home-loan?</para></problem>
+<solution id="fs-idp41728672">
+<para id="fs-idp1316640">Higher inflation reduces real interest rates on fixed rate home-loans. Because home-loans can be adjusted, higher inflation leads to higher interest rates on home-loans.</para></solution>
+</exercise>
+<exercise id="fs-idm2013408"> 
+<problem id="fs-idm36408016">
+<para id="fs-idm18213072">A fixed-rate home loan has the same interest rate over the life of the loan, whether the home-loan is for 15 or 30 years. By contrast, an adjustable-rate home-loan changes with market interest rates over the life of the home-loan. If inflation falls unexpectedly by 3%, what would likely happen to a homeowner with an adjustable-rate home-loan?</para></problem>
+<solution id="fs-idp1433344">
+<para id="fs-idp7469136">Because the home-loan has an adjustable rate, the rate should fall by 3%, the same as inflation, to keep the real interest rate the same.</para></solution>
+</exercise>
+</section>
+
+<section id="fs-idm50363664" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-idm44531696">
+<problem id="fs-idm58900208">
+<para id="fs-idm67157120">What is indexing?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp2373408">
+<problem id="fs-idm64113120">
+<para id="fs-idm67229280">Name several forms of indexing in the private and public sector.</para>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-idp13610896" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-idm48008912">
+<problem id="fs-idm37829056">
+<para id="fs-idp23274832">If a government gains from unexpected inflation when it borrows, why would it choose to offer indexed bonds?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm40282064">
+<problem id="fs-idp13642624">
+<para id="fs-idp21066288">Do you think perfect indexing is possible? Why or why not?</para>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-idm60206400" class="problems">
+<title>Problems</title>
+<exercise id="fs-idm72418096">
+<problem id="fs-idm10123088">
+<para id="fs-idp25698448">If inflation rises unexpectedly by 5%, indicate for each of the following whether the economic actor is helped, hurt, or unaffected:
+<list id="fs-idm61366720" list-type="enumerated" number-style="lower-alpha"><item>A union member with a Cost of Living Adjustment (COLA) wage contract</item>
+<item>Someone with a large stash of cash in a safe deposit box</item>
+<item>A bank lending money at a fixed rate of interest</item>
+<item>A person who is not due to receive a pay raise for another 11 months</item>
+</list></para>
+</problem>
+</exercise>
+<exercise id="fs-idm18593952">
+<problem id="fs-idm1137376">
+<para id="fs-idm7631712">Rosalie knows that when she retires in 16 years, her company will give her a one-time payment of R200,000. However, if the inflation rate is 6% per year, how much buying power will that R200,000 have when measured in today’s Rands? <emphasis effect="italics">Hint</emphasis>: Start by calculating the rise in the price level over the 16 years.</para></problem>
+</exercise>
+</section>
+
+<section id="fs-idp9903552" class="references">
+<title>References</title>
+<para id="eip-224">Bechard, M. 2016. Income tax bracket creep may squeeze you. Independent Online IOL News, Tax, 27 February 2016 Available:  http://www.iol.co.za/business/personal-finance/tax/income-tax-bracket-creep-may-squeeze-you-1990546  (Accessed: 26 Aug 2016)
+</para><para id="eip-483">Hanke, S.H.  2009. R.I.P. Zimbabwe Dollar. Washington: CATO Institute. Available:  http://www.cato.org/zimbabwe  (Accessed: 26 Aug 2016)</para><para id="eip-663">South Africa. National Treasury. 2016. 2016 Budget People’s Guide. Pretoria: National Treasury and South African Revenue Service. Available:
+http://www.treasury.gov.za/documents/national%20budget/2016/guides/2016%20People's%20Guide%20English.pdf  (Accessed: 26 Aug 2016)
+
+</para><para id="eip-282">US Daily Online Price Index. Annual inflation. Monthly Inflation. 2015. Massachusetts Institute of Technology. Billion Prices Project. Available: http://bpp.mit.edu/usa/  (Accessed: 26 Aug 2016)
+
+</para><para id="fs-idm12470784">Wines, Michael. 2006. How bad is inflation in Zimbabwe? The New York Times,  2 May 2006. Available:  http://www.nytimes.com/2006/05/02/world/africa/02zimbabwe.html?pagewanted=all&amp;_r=0  (Accessed: 26 Aug 2016)</para></section>
+
+
+</content>
+<glossary>
+<definition id="fs-idm43011696">
+<term>adjustable-rate mortgage (ARM)</term><meaning id="fs-idm80076128">a loan used to purchase a home in which the interest rate varies with market interest rates</meaning>
+</definition>
+<definition id="fs-idm4546880">
+<term>cost-of-living adjustments (COLAs)</term><meaning id="fs-idm28671440">a contractual provision that wage increases will keep up with inflation</meaning>
+</definition>
+<definition id="fs-idm79882752">
+<term>indexed</term><meaning id="fs-idm29445264">a price, wage, or interest rate is adjusted automatically for inflation</meaning>
+</definition>
+</glossary>
+
+</document>

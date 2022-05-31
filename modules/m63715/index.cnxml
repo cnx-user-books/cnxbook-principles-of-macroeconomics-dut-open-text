@@ -1,0 +1,120 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Measuring Money: Currency, M1, and M2</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63715</md:content-id>
+  <md:title>Measuring Money: Currency, M1, and M2</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Contrast M1 money supply and M2 money supply</item>
+ <item>Classify monies as M1 money supply or M2 money supply</item>
+</list></md:abstract>
+  <md:uuid>f2ffc200-b213-47ba-99c3-c7e8849b0d8d</md:uuid>
+</metadata>
+
+<content>
+  
+<para id="fs-idm1160560">Cash in your pocket certainly serves as money. But what about checks or credit cards? Are they money, too? Rather than trying to state a single way of measuring money, economists offer broader definitions of money based on liquidity. <term class="no-emphasis">Liquidity</term> refers to how quickly a financial asset can be used to buy a good or service. For example, cash is very liquid. Your R100 note can be easily used to buy a big hamburger and chips at lunchtime and a good amount of airtime. However, R100 that you have in your savings account is not so easy to use. You must first go to the bank or ATM machine and withdraw that cash to do your purchases. Thus, R100 in your savings account is
+<emphasis effect="italics">less</emphasis> liquid than cash in your wallet.</para><para id="fs-idp21739664">The <term class="no-emphasis">South African Reserve Bank</term>, which is South Africa's central bank, is a bank regulator and is responsible for monetary policy and defines money according to its liquidity. South Africa has three broad definitions of money: M1, M2 and M3 money supply. <term>M1 money supply</term> includes those monies that are very liquid such as coins and notes (that is, cash in circulation outside the monetary sector) as well as checkable and transmission (demand) deposits of the domestic private sector with monetary institutions (Mohr: 2015). </para><para id="fs-idp19112560">Thus <term>M1 money supply</term> includes <term>coins and currency in circulation</term>—the coins and bank notes that circulate in an economy that are not held by the monetary sector. The reason for this is that only monies in the hands of the public can be used as a means of payment (medium of exchange function of money). The monetary sector in South Africa includes the South African Reserve Bank, the Corporation for Public Deposits, the Land Bank, Postbank, private banking institutions and mutual building societies (Mohr: 2015). </para><para id="eip-997">Closely related to currency are checkable deposits, also known as <term>demand deposits</term>. These are the amounts held in checking accounts. They are called demand deposits or checkable deposits because the banking institution must give the deposit holder his money “on demand” when a check is written or a debit card is used. These items together—currency, and checking accounts in banks—make up the definition of money known as M1. </para><para id="eip-683">M1 is the supply of money category that serves as a "medium of exchange". M1, as a supply of money (M) can be expressed as an identity:</para><para id="eip-614">M = C + D</para><para id="eip-171">M = Supply (quantity) of money, C = coins and banknotes (cash in circulation outside the monetary sector), D = demand deposits. Demand deposits constitute a much greater percent of M1 than cash as illustrated in Table 1. </para><code id="eip-185" display="block"><media id="x197" alt="cashtable">
+      <image mime-type="image/jpeg" src="cashtable.jpeg "/>
+    </media><caption><term>Table 1</term> South Africa's M1 money supply, 2016 (Source: South African Reserve Bank: 2016)</caption></code><para id="eip-957"><term>M2 money supply</term> is less liquid in nature and includes M1 plus all other short-term and medium-term deposits of the domestic private sector with monetary institutions (Mohr: 2015). It is thus a broader definition of money than M1. Short-term (less than 30 days) and medium-term notice deposits (30 days to 6 months) are not immediately available to serve the medium of exchange function of money.</para><para id="eip-919"><term>M3 money supply</term> is the broadest definition of money supply and is equal to M2 as well as all long-term deposits of the domestic private sector with monetary institutions (Mohr: 2015). Long term notice deposits have a maturity of more than 6 months. Because M3 is the most comprehensive measure of the country's aggregate money supply, it includes not only the "medium of exchange" (liquid) categories of money but also its "store of value" categories of monies. Figure 1 illustrates that M1 and M2 money supplies are subsets of the total supply of money, M3. </para><code id="eip-812" display="block"><media id="x196" alt="money supply">
+      <image mime-type="image/jpeg" src="moneymeasure.jpeg "/>
+    </media><caption><term>Figure 1</term> The money supply</caption></code><para id="fs-idm7139248">The lines separating M1, M2 and M3 can become a little blurry. Sometimes elements of M1 are not treated alike; for example, some businesses will not accept personal checks for large amounts, but will accept electronic funds transfers (EFT's) or cash. Changes in banking practices and technology have made the savings accounts in M2 and M3 more similar to the checking accounts in M1. For example, some savings accounts will allow depositors to write checks, use automatic teller machines, and pay bills over the Internet, which has made it easier to access savings accounts. As with many other economic terms and statistics, the important point is to know the strengths and limitations of the various definitions of money, not to believe that such definitions are as clear-cut to economists as, say, the definition of nitrogen is to chemists.</para><para id="fs-idm41313488">Where does “plastic money” like debit cards, credit cards, and smart money fit into this picture? A <term>debit card</term>, like a check, is an instruction to the user’s bank to transfer money directly and immediately from your bank account to the seller. It is important to note that in our definition of money, it is <emphasis effect="italics">checkable deposits</emphasis> that are money, not the paper check or the debit card. Although you can make a purchase with a <term>credit card</term>, it is not considered money but rather a short term loan from the credit card company to you. When you make a purchase with a credit card, the credit card company immediately transfers money from its checking account to the seller, and at the end of the month, the credit card company sends you a bill for what you have charged that month. Until you pay the credit card bill, you have effectively borrowed money from the credit card company. With a <term>smart card</term>, you can store a certain value of money on the card and then use the card to make purchases. Some “smart cards” used for specific purposes, like long-distance phone calls or making purchases at specific outlets/shops, are not really all that smart, because they can only be used for certain purchases or in certain places.</para><para id="fs-idm17403200">In short, credit cards, debit cards, and smart cards are different ways to move money when a purchase is made. But having more credit cards or debit cards does not change the quantity of money in the economy, any more than having more checks printed increases the amount of money in your checking account.</para>
+
+<para id="fs-idm22013216">One key message underlying this discussion of the different measures of money in a modern economy is that money is not just banknotes and coins; instead, money is closely linked to bank accounts. Indeed, the macroeconomic policies concerning money are largely conducted through the <term class="no-emphasis">banking system</term>. The next section explains how banks function and how a nation’s banking system has the power to "create" money.</para><section id="fs-idm70002320" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idp31584960">Money is measured with several definitions: M1 includes currency and money in checking accounts (demand deposits) and serves the "medium of exchange" function of money. M2 includes all of M1, plus short- and medium-term savings notice deposits and money market funds. M3 includes M2 plus all long-term savings notice deposits. M3 is thus the total supply of money and includes not only the medium of exchange categories of money but also the "store of value" forms of money.</para></section>
+<section id="fs-idp20862960" class="self-check-questions">
+<title>Self-Check Questions</title>
+<exercise id="fs-idm17332224">
+<problem id="fs-idp2758464">
+<para id="fs-idm71464000">If you are out shopping for clothes and books, what is easiest and most convenient for you to spend: M1, M2 or M3? Explain your answer.</para></problem>
+<solution id="fs-idm48597312">
+<para id="fs-idm99775328">The currency and checks in M1 are easiest to spend. It is harder to spend M2 and M3 directly, although if there is an automatic teller machine in the shopping mall, you could possibly turn M2 from your savings account into an M1 of currency quite quickly. If your answer is about “credit cards,” then you are really talking about spending M1—although it is M1 from the account of the credit card company, which you will repay later when your credit card bill becomes due.</para></solution>
+</exercise>
+<exercise id="fs-idm45514080">
+<problem id="fs-idm53515264">
+<para id="fs-idm25069856">For the following list of items, indicate if they are in M1, M2, M3 or none of the categories:
+<list id="fs-idp32765712" list-type="enumerated" number-style="lower-alpha"><item>Your R5,000 ABSA overdraft</item> 
+<item>R500 Mr Price voucher you have not used yet</item> 
+<item>R10 change in your pocket</item> 
+<item>R12,000 in your checking account</item>
+<item>R20,000 you have in a money market account</item>
+</list></para></problem>
+<solution id="fs-idm46004528">
+<para id="fs-idp19283856">
+<list id="fs-idm95972208" list-type="enumerated" number-style="lower-alpha"><item>Not in M1, M2 or M3</item>
+<item>That is part of M1, and because M2 includes M1 it is also part of M2</item>
+<item>Currency out in the public hands is part of M1 </item>
+<item>Checking deposits are in M1 </item>
+<item>Money market accounts are in M2</item>
+</list></para>
+</solution>
+</exercise>
+</section>
+
+<section id="fs-idm23406688" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-idm21166624">
+<problem id="fs-idm56514528">
+<para id="fs-idm59884256">What components of money are counted as part of M1?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm52283264">
+<problem id="fs-idp49035760">
+<para id="fs-idm10622896">What components of money are counted in M3?</para></problem>
+</exercise>
+</section>
+<section id="fs-idp41961648" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-idp92287504">
+<problem id="fs-idp125719568">
+<para id="fs-idp51256304">Explain why you think the Reserve Bank is especially interested in M3. </para></problem>
+</exercise>
+<exercise id="fs-idp105576176">
+<problem id="fs-idp58909408">
+<para id="fs-idp30462896">If you take R1000 out of your piggy bank and deposit it in your checking account, how did M1 change? Did M2 change?</para></problem>
+</exercise>
+</section>
+<section id="fs-idm41218032" class="references">
+<title>References</title>
+<para id="eip-689">Mohr, P. , et al. 2015. Economics for South African students. 5th ed. Pretoria: Van Schaik.</para><para id="eip-223">South African Reserve Bank. 2016. Release of Selected Monthly Data - Money and Banking. Available: https://www.resbank.co.za/Research/Statistics/Pages/MonthlyReleaseOfSelectedData.aspx.  (Accessed: 14 Oct 2016)
+</para></section>
+
+</content>
+<glossary>
+
+<definition id="fs-idp73738944">
+<term>coins and currency in circulation</term><meaning id="fs-idp13335232">the coins and bills that circulate in an economy that are not held by the U.S Treasury, at the Federal Reserve Bank, or in bank vaults</meaning>
+</definition>
+<definition id="fs-idp57548048">
+<term>credit card</term><meaning id="fs-idp31817680">immediately transfers money from the credit card company’s checking account to the seller, and at the end of the month the user owes the money to the credit card company; a credit card is a short-term loan</meaning>
+</definition>
+<definition id="fs-idp95792880">
+<term>debit card</term><meaning id="fs-idp20996208">like a check, is an instruction to the user’s bank to transfer money directly and immediately from your bank account to the seller</meaning>
+</definition>
+<definition id="fs-idp137672016">
+<term>demand deposit</term><meaning id="fs-idm90294400"> checkable deposit in banks that is available by making a cash withdrawal or writing a check</meaning>
+</definition>
+
+<definition id="fs-idp76550144">
+<term>M1 money supply</term><meaning id="fs-idm45137920">a narrow definition of the money supply that includes currency and checking accounts in banks, and to a lesser degree, traveler’s checks. </meaning>
+</definition>
+<definition id="fs-idp18794736">
+<term>M2 money supply</term><meaning id="fs-idm10633312">a definition of the money supply that includes everything in M1, but also adds savings deposits, money market funds, and certificates of deposit</meaning>
+</definition>
+<definition id="fs-idp24158736">
+<term>money market fund</term><meaning id="fs-idp6196768">the deposits of many investors are pooled together and invested in a safe way like short-term government bonds</meaning>
+</definition>
+<definition id="fs-idp27710384">
+<term>savings deposit</term><meaning id="fs-idp37701040">bank account where you cannot withdraw money by writing a check, but can withdraw the money at a bank—or can transfer it easily to a checking account</meaning>
+</definition>
+<definition id="fs-idp63066592">
+<term>smart card</term><meaning id="fs-idp50890816">stores a certain value of money on a card and then the card can be used to make purchases</meaning>
+</definition>
+<definition id="fs-idp63885200">
+<term>time deposit</term><meaning id="fs-idm2819808">account that the depositor has committed to leaving in the bank for a certain period of time, in exchange for a higher rate of interest; also called certificate of deposit</meaning>
+</definition>
+</glossary>
+
+</document>

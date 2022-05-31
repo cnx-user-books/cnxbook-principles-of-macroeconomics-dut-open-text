@@ -1,0 +1,149 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>How Banks Create Money</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63718</md:content-id>
+  <md:title>How Banks Create Money</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Utilize the money multiplier formulate to determine how banks create money</item>
+<item>Analyze and create T-account balance sheets</item>
+<item>Evaluate the risks and benefits of money and banks</item>
+</list></md:abstract>
+  <md:uuid>e3ee6c1a-e834-46a0-a4f6-6ec370faa584</md:uuid>
+</metadata>
+
+<content>
+  
+<code id="eip-960" display="block"><media id="x199.1" alt="pretable1">
+<image mime-type="image/jpg" src="../../media/moneycreation.jpeg"/>
+</media><caption><term>Figure A.</term> Banks don't actually create money this way.</caption></code><para id="fs-idm97044912">Banks and money are intertwined. It is not just that most money is in the form of bank accounts. The banking system can literally create money through the process of making loans. Let’s see how.</para>
+
+<section id="fs-idp41750032">
+<title>Money Creation by a Single Bank</title>
+<para id="fs-idp71581536">Start with a hypothetical bank called Singleton Bank. The bank has R10 million in deposits. The T-account balance sheet for Singleton Bank, when it holds all of the deposits in its vaults, is shown in Figure 1. At this stage, Singleton Bank is simply storing money for depositors and is using these deposits to make loans. In this example, we ignore interest rates and interest to avoid messy figures and to keep things simple for the sake of explanation. So Singleton Bank cannot earn any interest income from these loans and cannot pay its depositors an interest rate either (of course this would not be the case in the real world).</para><code id="eip-752" display="block"><title>Singleton Bank’s Balance Sheet: Receives R10 million in Deposits</title><media id="x199" alt="table1">
+<image mime-type="image/jpg" src="../../media/ttable1.jpeg"/>
+</media><caption><term>Figure 1</term></caption></code><para id="eip-200">We can work out the effect on the total money supply as follows:</para><para id="eip-531">Change in total money supply = Change in cash in circulation + Change in demand deposits</para><para id="eip-613">Change in total money supply = -R10 million + R10 million = 0. The deposit of cash (most likely by check payment or EFT) into a Singleton Bank account reduced the amount of cash in circulation outside the monetary sector. However, this reduction in the amount of cash available for medium of exchange purposes is exactly offset (balanced) by the creation of a demand deposit of the same value. So, at this stage, there has been no change in the total money supply. Demand deposits created from new cash reserves/deposits do not increase the money supply. Newly created demand deposits that do not increase the money supply are termed <term>passive</term> deposits and are the result of <term>passive</term> deposit creation (using new cash deposits/new cash reserves to create demand deposits).</para><para id="fs-idm1702480">Singleton Bank is required by the Reserve Bank to keep R1 million on reserve (we assume for this example that all banks are required to retain 10% of total deposits as required reserves). It will loan out the remaining R9 million. By loaning out the R9 million and charging interest, it will be able to make interest payments to depositors and earn interest income for Singleton Bank (for now, we will keep it simple and not put interest income on the balance sheet). Instead of becoming just a storage place for deposits, Singleton Bank can become a financial intermediary between savers and borrowers.</para><para id="fs-idm26667440">This change in business plan alters Singleton Bank’s balance sheet, as shown in Figure 2. Singleton’s assets have changed; it now has R1 million in reserves and a loan to Sipho’s Auto Supply of R9 million. The bank still has R10 million in deposits.</para><code id="eip-225" display="block"><title>Singleton Bank’s Balance Sheet: 10% Reserves, Round One of Loan Creation</title><media id="x200" alt="table2">
+<image mime-type="image/jpg" src="../../media/ttable2.jpeg"/>
+</media><caption><term>Figure 2</term></caption></code><para id="fs-idp50071312">Singleton Bank lends R9 million to Sipho’s Auto Supply whose main business check account is at Great National Bank. Singleton Bank records this loan to its new client by making an entry on its balance sheet to indicate that a loan has been made. This loan is an asset, because it will generate interest income for the bank. Of course, the loan officer is not going to let Sipho walk out of the bank with R9 million in cash. The bank issues Sipho’s Auto Supply a cashier’s check for the R9 million.  Sipho deposits the loan in his regular checking account with Great National Bank. The deposits at Great National Bank rise by R9 million and its reserves also rise by R9 million, as Figure 3 shows. Great National Bank must hold 10% of additional deposits as required reserves but is free to loan out the rest</para><code id="eip-85" display="block"><title>Great National Bank’s Balance Sheet: Receives R9 million in Deposits</title><media id="x201" alt="table3">
+<image mime-type="image/jpg" src="../../media/ttable3.jpeg"/>
+</media><caption><term>Figure 3</term></caption></code><para id="fs-idm2910832">Making loans that are deposited into a demand deposit account increases the M1 money supply. Demand deposits that are created from loans are termed <term>active</term> deposits since they increase the money supply, unlike passive deposits (which are created from deposits of cash by the banks' clients). Remember the definition of M1 includes checkable (demand) deposits, which  can be easily used as a medium of exchange to buy goods and services.  Notice that the money supply is now R19 million: R10 million in <term>passive</term> deposits in Singleton bank and R9 million in <term>active </term> deposits at Great National Bank.  Obviously these deposits will be drawn down as Sipho’s Auto Supply writes checks to pay its bills.  But the bigger picture is that a bank must hold enough money in reserves to meet its liabilities; the rest the bank loans out.  In this example so far, bank lending has expanded the money supply by R9 million. This is "new money", as it were, new spending power created from a deposit of funds at Singleton Bank. We can follow this money creation process as follows: </para><para id="eip-841">Change in total money supply = Change in cash in circulation + Change in demand deposits</para><para id="eip-137">Change in total money supply = -R10 million + R10 million (passive deposit) + R9 million (active deposit) = R9 million</para><para id="fs-idp101495136">Now, Great National Bank must hold only 10% as required reserves (R900,000) but can lend out the other 90% (R8.1 million) in a loan to Ravi's Mahindra Dealership as shown in Figure 4.  Ravi, in securing a loan from Great National Bank becomes one of its clients.  However, Ravi's main business check account is at Dodgy Bank.</para><code id="eip-391" display="block"><title>Great National Bank’s Balance Sheet: 10% Reserves, Round Two of Loan Creation</title><media id="x202" alt="table4">
+<image mime-type="image/jpg" src="../../media/ttable4.jpeg"/>
+</media><caption><term>Figure 4</term></caption></code><para id="fs-idm38652448">If Ravi deposits the loan in his checking account at Dodgy Bank, the money supply just increased by an additional R8.1 million, as Figure 5 shows.</para><code id="eip-678" display="block"><title>Dodgy Bank’s Balance Sheet: Receives R8.1 million in Deposits</title><media id="x203" alt="table5">
+<image mime-type="image/jpg" src="../../media/ttable5.jpeg"/>
+</media><caption><term>Figure 5</term></caption></code><para id="eip-389">Again, we can follow this money creation process after just two rounds of loan creation as follows:</para><para id="eip-915">Change in total money supply = Change in cash in circulation + Change in demand deposits</para><para id="eip-470">Change in total money supply = -R10 million + R10 million (Singleton Bank passive deposit) + R9 million (Singleton Bank active deposit) + R8.1 million (Great National Bank active deposit) = R17.1 million. </para><para id="eip-994">So after just two rounds of loan creation/active deposit creation, the money supply has increased by R17.1 million. We cannot include the original passive deposit of R10 million as constituting an increase in the money supply because this was effectively created from a 100% cash deposit at Singleton Bank. This amounts to a fall in cash reserves in circulation outside the monetary system (banks). So now the cash that was previously in circulation outside the banks is held by Singleton bank as part of its cash reserves. It is no longer available to be spent "out there". Instead Singleton Bank created a demand deposit account against which drawings can be made to the exact value of the cash deposit. So the first deposit, being a passive deposit (swapped for cash), does not increase the money supply.    </para><para id="eip-458">The money "creation" process can carry on for as long as banks have excess cash reserves (more than the minimum required reserves). Dodgy Bank, for example, would look to increase the number and amount of loans it can grant given that its cash reserves increased by R8.1 million and so forth. </para><para id="eip-127">It now becomes clearer that money "creation" results from granting loans (active deposits) that are "backed" by cash reserves held by the bank that granted the loan. The cash reserves supporting these active deposits/loans are a fraction of the value of the loans granted, in this case 10%. The purpose of the cash reserve requirement is to guarantee the liquidity of the banking/payments system. So if a bank's clients require their funds from the bank then the cash reserve requirement ensures that banks will always have at least some funds on hand to service their liabilities to customers. Banks cannot risk loaning out 100% of their reserves for this reason.</para><para id="fs-idm142735552">How is money creation by financial institutions such as banks possible?  It is possible because there are multiple banks in the financial system, they are required to hold only a fraction of their deposits, and loans end up deposited in other banks, which increases deposits and, in essence, the money supply.</para><note id="fs-idm43170752" class="economics linkup"><para id="fs-idp49860960">Watch this <link url="http://openstaxcollege.org/l/createmoney">video</link> to learn more about how banks create money.</para>
+<media id="fs-idm126275344" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/createmoney.png" width="130"/>
+</media>
+</note></section>
+
+<section id="fs-idm88707968">
+<title>The Money Multiplier and a Multi-Bank System</title>
+<para id="fs-idm29505200">In a system with multiple banks, the initial excess reserve amount that Singleton Bank decided to lend to Sipho’s Auto Supply was deposited into Great National Bank, which is free to loan out R8.1 million. If all banks loan out their excess reserves, the money supply will expand. In a multi-bank system, the amount of money that the system can create is found by using the money multiplier. The money multiplier tells us by how many times a loan will be “multiplied” as it is spent in the economy and then re-deposited in other banks.</para><para id="fs-idm43712032">Fortunately, a formula exists for calculating the total of these many rounds of lending in a banking system. The <term>money multiplier formula</term> is:</para>
+ 
+<equation id="eip-779"><m:math><m:mfrac><m:mn>1</m:mn><m:mtext>Reserve Requirement</m:mtext></m:mfrac></m:math></equation><para id="fs-idm19261920">The money multiplier is then multiplied by the change in the first bank's (Singleton Bank in this case) <term>excess</term> reserves to determine the total amount of M1 money supply created in the banking system. See the Work it Out feature to walk through the multiplier calculation.</para><note id="fs-idp23765232" class="economics workout">
+<title>Using the Money Multiplier Formula</title>
+<para id="fs-idm2973344">Using the money multiplier for the example in this text:</para>
+<para id="fs-idp88764928">Step 1. In the case of Singleton Bank, for whom the reserve requirement is 10% (or 0.10), the money multiplier is 1 divided by .10, which is equal to 10.</para>
+<para id="fs-idm45440944">Step 2. We have identified that the excess reserves are R9 million, so, using the formula we can determine the total change in the M1 money supply:</para><equation id="eip-795"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Total Change in the M1 Money Supply</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mn>1</m:mn><m:mtext>Reserve Requirement</m:mtext></m:mfrac><m:mo> × </m:mo><m:mtext>Excess Requirement</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>0.10</m:mn></m:mrow></m:mfrac><m:mo> × </m:mo><m:mo>R9</m:mo><m:mtext> million</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>10</m:mn><m:mo> × </m:mo><m:mo>R9</m:mo><m:mtext> million</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo>R90</m:mo><m:mtext> million</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm21545744">Step 3. Thus, we can say that, in this example, the total quantity of money generated in this economy after all rounds of lending are completed will be R90 million.</para></note>
+</section>
+<section id="fs-idp9084608">
+<title>Cautions about the Money Multiplier</title>
+<para id="fs-idp47413856">The money multiplier will depend on the proportion of reserves that banks are required to hold by the Reserve Bank. Additionally, a bank can also choose to hold extra reserves. Banks may decide to vary how much they hold in reserves for two reasons: macroeconomic conditions and government rules. When an economy is in recession, banks are likely to hold a higher proportion of reserves because they fear that loans are less likely to be repaid when the economy is slow. The Reserve Bank may also raise or lower the required reserves held by banks as a policy move to affect the quantity of money in an economy, as the chapter on Monetary Policy and Bank Regulation will discuss.</para><para id="fs-idp15860448">The process of how banks create money shows how the quantity of money in an economy is closely linked to the quantity of lending or credit in the economy. Indeed, all of the money in the economy, except for the original reserves, is a result of bank loans that are re-deposited and loaned out, again, and again.</para>
+<para id="fs-idm590368">Finally, the money multiplier depends on people re-depositing the money that they receive in the banking system. If people instead store their cash in safe-deposit boxes or under their mattresses, then banks cannot recirculate the money in the form of loans. Indeed, central banks have an incentive to assure that bank deposits are safe because if people worry that they may lose their bank deposits, they may start holding more money in cash, instead of depositing it in banks, and the quantity of loans in an economy will decline. Low-income countries have what economists sometimes refer to as “mattress savings,” or money that people are hiding in their homes because they do not trust banks. When mattress savings in an economy are substantial, banks cannot lend out those funds and the money multiplier cannot operate as effectively. The overall quantity of money and loans in such an economy will decline and this is likely to affect economic activity (that is, spending, production and earning income as per the circular flow model).</para></section>
+
+<note id="fs-idp23562816" class="economics linkup"><para id="fs-idm26144464">Watch a <link url="http://openstaxcollege.org/l/moneymyth">video</link> of Jem Bendell discussing “The Money Myth.”</para> 
+<media id="fs-idp2226832" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/moneymyth.png" width="130"/>
+</media>
+</note><section id="fs-idm97459088">
+<title>Money and Banks—Benefits and Dangers</title>
+<para id="fs-idm23754000">Money and banks are marvelous social inventions that help a modern economy to function. Compared with the alternative of barter, money makes market exchanges much easier in goods, labor, and financial markets. Banking makes money still more effective in facilitating exchanges in goods and labor markets. Moreover, the process of banks making loans in financial capital markets is intimately tied to the creation of money.</para><para id="fs-idm75289280">But the extraordinary economic gains that are possible through money and banking also suggest some possible corresponding dangers. If banks are not working well, it sets off a decline in convenience and safety of transactions throughout the economy. If the banks are under financial stress, because of a widespread decline in the value of their assets, loans may become far less available, which can deal a crushing blow to sectors of the economy that depend on borrowed money like business investment, home construction, and car manufacturing. The Great Recession of 2008–2009 illustrated this pattern.</para> 
+<note id="fs-idm44902736" class="economics bringhome">
+<title>The Many Disguises of Money: From Cowries to Bit Coins </title>
+<para id="fs-idm15878032">The global economy has come a long way since it started using cowrie shells as currency. We have moved away from commodity and commodity-backed paper money to fiat currency. As technology and global integration increases, the need for paper currency is diminishing, too. Every day, we witness the increased use of debit and credit cards.</para><para id="fs-idm88806448">The latest creation and perhaps one of the purest forms of fiat money is the Bitcoin.  (Bitcoin: 2016) Bitcoins are a digital currency that allows users to buy goods and services online. Products and services such as videos and books may be purchased using Bitcoins. It is not backed by any commodity nor has it been decreed by any government as legal tender, yet it is used as a medium of exchange and its value (online at least) can be stored. It is also unregulated by any central bank, but is created online through people solving very complicated mathematics problems and getting paid afterward. Bitcoins are a relatively new type of money. At present, because it is not sanctioned as a legal currency by any country nor regulated by any central bank, it lends itself for use in illegal trading activities as well as legal ones. As technology increases and the need to reduce transaction costs associated with using traditional forms of money increases, Bitcoins or some sort of digital currency may replace our current Rands and cents, just as the cowrie shell was replaced.</para></note> 
+
+</section>
+<section id="fs-idp113385408" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idm69927536">The money multiplier is defined as the quantity of money that the banking system can generate from each R1 of bank reserves. The formula for calculating the multiplier is 1/reserve ratio, where the reserve ratio is the fraction (percent) of deposits that the bank wishes to hold as reserves. The quantity of money in an economy and the quantity of credit for loans are inextricably intertwined. Much of the money in an economy is created by the network of banks making loans, people making deposits, and banks making more loans.</para><para id="fs-idp32822320">Given the macroeconomic dangers of a malfunctioning banking system, the chapter on Monetary Policy and Bank Regulation will discuss policies for controlling the money supply and for keeping the banking system safe.</para></section>
+
+<section id="fs-idp104652992" class="self-check-questions">
+<title>Self-Check Questions</title>
+<exercise id="fs-idp96820176">
+<problem id="fs-idp22171632">
+<para id="fs-idm4213936">Imagine that you are in the position of buying loans in the secondary market (that is, buying the right to collect the payments on loans made by banks) for a bank or other financial services company. Explain why you would be willing to pay more or less for a given loan if:</para>
+<list id="fs-idp35465872" list-type="enumerated" number-style="lower-alpha">
+<item>The borrower has been late on a number of loan payments</item>
+<item>Interest rates in the economy as a whole have risen since the loan was made</item> 
+<item>The borrower is a firm that has just declared a high level of profits</item>
+<item>Interest rates in the economy as a whole have fallen since the loan was made</item>
+</list> 
+</problem>
+<solution id="fs-idp45367872">
+<list id="fs-idm141887040" list-type="enumerated" number-style="lower-alpha">
+<item>A borrower who has been late on a number of loan payments looks perhaps less likely to repay the loan, or to repay it on time, and so you would want to pay less for that loan.</item>
+<item>If interest rates generally have risen, then this loan made at a time of relatively lower interest rates looks less attractive, and you would pay less for it.</item>
+<item>If the borrower is a firm with a record of high profits, then it is likely to be able to repay the loan, and you would be willing to pay more for the loan.</item>
+<item>If interest rates in the economy have fallen, then the loan is worth more.</item>
+</list>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp32883680" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-idm39149296">
+<problem id="fs-idp106486096">
+<para id="fs-idm33621056">How do banks create money?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp62494096">
+<problem id="fs-idp99400768">
+<para id="fs-idm15749952">What is the formula for the money multiplier?</para>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-idm67285936" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-idm1401040">
+<problem id="fs-idm165672336">
+<para id="fs-idp10360496">Should banks have to hold 100% of their deposits? Why or why not?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp22629040">
+<problem id="fs-idm112235120">
+<para id="fs-idp37518352"> Explain what will happen to the money multiplier process if there is an increase in the reserve requirement?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm76712576">
+<problem id="fs-idp10177904">
+<para id="fs-idm29337920">Refer to Dodgy Bank's balance sheet in Figure 5. What value of loans could it create if the reserve requirement was reduced to 5% from 10%? Calculate the change in total money supply that was kicked off by the initial deposit of R10 million in Singleton Bank (use the 5% reserve requirement).</para></problem>
+</exercise>
+</section>
+<section id="fs-idp16181248" class="problems">
+<title>Problems</title>
+<exercise id="fs-idp123037088">
+<problem id="fs-idp5028032">
+<para id="fs-idp109253248">Humongous Bank is the only bank in the economy. The people in this economy have R20 million in money (cash), and they deposit all their money in Humongous Bank.
+<list id="fs-idp59960320" list-type="enumerated" number-style="lower-alpha"><item>Humongous Bank decides on a policy of holding 100% reserves. Draw a T-account for the bank.</item> 
+<item>Humongous Bank is required to hold 5% of its existing R20 million as reserves, and to loan out the rest. Draw a T-account for the bank after this first round of loans has been made.</item> 
+<item>Assume that Humongous bank is part of a multibank system. How much will money supply increase with that original loan of R19 million?</item>
+</list>
+</para></problem>
+</exercise>
+</section>
+
+<section id="fs-idp2797488" class="references">
+<title>References</title>
+<para id="fs-idm108406000">Bitcoin. 2016. Bitcoin is an innovative payment network and a new kind of money. Available:
+https://bitcoin.org/en/  (Accessed: 14 Oct 2016)
+</para></section>
+</content>
+<glossary>
+<definition id="fs-idm60057472">
+<term>money multiplier formula</term><meaning id="fs-idm4982256"> total money in the economy divided by the original quantity of money, or change in the total money in the economy divided by a change in the original quantity of money</meaning>
+</definition>
+</glossary>
+
+</document>

@@ -1,0 +1,221 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>How the Unemployment Rate is Defined and Computed</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63653</md:content-id>
+  <md:title>How the Unemployment Rate is Defined and Computed</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Calculate the labor force percentage and the unemployment rate</item>
+<item>Explain hidden unemployment and what it means to be in or out of the labor force</item>
+<item>Evaluate the collection and interpretation of unemployment data</item>
+</list></md:abstract>
+  <md:uuid>d09d190f-e551-4640-a75a-06602fbc24b8</md:uuid>
+</metadata>
+
+<content>
+
+<code id="eip-708" display="block"><media id="fs-idp000000115.1" alt="jbsman">
+      <image mime-type="image/jpg" src="../../media/jobsman.jpeg"/>
+    </media><caption><term>Figure 1</term> Looking for work</caption></code><para id="fs-idp32600112">Unemployment is usually described in newspaper or television reports as a percentage or a rate. A recent report might have said, for example, <emphasis effect="italics">from August 2009 to November 2009, the South African unemployment rate rose from 23.5% to 24.1%, but by June 2010, it had fallen to 23.8%</emphasis>. At a glance, the changes between the percentages may seem small. But remember that the South African economy has nearly 15 million adults who either have jobs or are looking for them (South Africa labor force participation rate: 2016). A rise or fall of just 0.1% in the unemployment rate of 15 million potential workers translates into 15,000 people, which is roughly the population of some small towns. Large rises in the unemployment rate mean large numbers of job losses. As of 2016 with an official unemployment rate of 26.7%, close to 4 million people were out of work. </para><note id="fs-idm28958448" class="economics linkup"><para id="fs-idm144319776"><link url="http://www.statssa.gov.za/?cat=31">Statistics South Africa</link> tracks and reports all data related to unemployment.</para><media id="fs-idp3270256" alt="QR Code representing a URL">
+          <image mime-type="image/png" src="../../media/BLS1.png" width="130"/>
+        </media>
+    </note><section id="fs-idm28087104"><title>Who’s In or Out of the Labor Force?</title>
+<para id="fs-idm36078976">Should everyone without a job be counted as unemployed? Of course not. Children, for example, should not be counted as unemployed. Surely, the retired should not be counted as unemployed. Many full-time college students have only a part-time job, or no job at all, but it seems inappropriate to count them as suffering the pains of unemployment. Some people are not working because they are raising children, are ill, on vacation, or on parental leave.</para><para id="fs-idm48335872">The point is that the adult population (or population of working age) is not just divided into employed and unemployed. A third group exists: people who do not have a job (are not economically active), and for some reason—retirement, looking after children, taking a voluntary break before a new job—are not interested in having a job just then, either. It also includes those who do want a job but have quit looking, often due to being discouraged by their inability to find suitable employment. Economists refer to this third group of those who are not working and not looking for work as <term>out of the labor force</term> or not in the labor force. </para><para id="eip-297">Statistics South Africa conducts quarterly labor force surveys (four times a year), which collect data on the number of people in the labor market. This information includes the number of people that are employed, unemployed and not economically active. The data is assembled by industry, province, sex, age and sector for both the formal and informal sectors (Africa Check: 2014). The surveys/interviews are conducted in 30,000 private households and worker hostels throughout South Africa. This sample is then weighted to accurately reflect the South African population as a whole.</para><para id="eip-781">Respondents are questioned about their employment activity in the week prior to the interview. The surveys duly note whether any form of work was undertaken in that period – even if the people interviewed had worked for as little as an hour. The surveys attempt to estimate the size of the working population (all persons between 15 and 64) and the labor force (all persons that are employed or unemployed). Other data typically collected by these surveys include information on people who are categorized as “discouraged job seekers” and those that are economically inactive (Africa Check: 2014).</para><para id="eip-336"><title>Some Important Definitions</title></para><para id="eip-205"><term>Discouraged job-seeker:</term> A person is regarded as a discouraged job-seeker if he or she wanted to work but there are no jobs in the area; if he/she was unable to find work that required his/her skills; or if he/she has lost hope of finding any kind of work.</para><para id="eip-74"><term>Not economically active:</term> A person is considered to be economically inactive if he/she was able and available to work in the week prior to the survey but did not work; did not look for work; and did not try to start his/her own business. This includes people such as university students and adults caring for children at home.</para><para id="fs-idm11805664"><emphasis effect="strong">Employed</emphasis>: A person (between 15 and 64) is considered to be employed if during the week before being surveyed he/she worked for a wage, salary or commission or ran any kind of business by themselves or with other people. He/she will be categorised as “employed” even if he/she only worked for an hour in that week.</para><para id="fs-idp17516736"><emphasis effect="strong">Unemployed</emphasis>: Someone is considered to be unemployed if he/she is capable of working or starting a business but had not done so. Furthermore, he/she would need to have actively looked for work or tried to start a business at some point in the four weeks preceding the survey.</para><para id="fs-idm14569088"><emphasis effect="strong">Out of the labor force</emphasis>: Out of paid work and not actively looking for a job</para><para id="fs-idp45924160"><emphasis effect="strong">Labor force</emphasis>: the number of employed plus the unemployed</para></section>
+
+
+<section id="fs-idm25051664"><title>Calculating the Unemployment Rate</title>
+<para id="fs-idm51367232">Figure 2 shows the three-way division of the working age population. As at June 2016, about 58.7% of the adult population was "in the labor force" (South Africa labor force participation rate: 2016); that is, people are either employed or without a job but looking for work. Those in the labor force can be divided into the employed and the unemployed. The <term>unemployment rate</term> is not the percentage of the total adult population without jobs, but rather the percentage of adults who are in the labor force. The labor force thus includes those of working age who are employed AND those who are unemployed. The unemployment rate is therefore calculated using the following formula: </para><equation id="fs-idp76778576"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Unemployment rate</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mtext>Unemployed people</m:mtext><m:mtext>Total labor force</m:mtext></m:mfrac></m:mtd></m:mtr></m:mtable><m:mo> × </m:mo><m:mn>100</m:mn></m:math></equation><code id="eip-477" display="block"><title>Employed, Unemployed, and Out of the Labor Force Distribution of Working Age Population (age 16 -64), June 2016 </title><media id="fs-idp000000115" alt="The pie chart shows breakdown of sa labor force">
+      <image mime-type="image/jpg" src="../../media/popie.jpg"/>
+    </media>
+    <caption><term>Figure 2.</term> The total adult, working-age population as at June 2016 was 25,052,811. Out of this total population, 8,992,000 were classified as employed, and 5,714,000 million were classified as unemployed. The remaining 10,346,811 were classified as out of the labor force. As you will learn, however, this seemingly simple chart does not tell the whole story.(Source: South Africa labor force participation rate: 2016)</caption></code><table id="Table_21_01" summary="ok, its described"><title>South African Employment and Unemployment, June 2016</title>
+<tgroup cols="2"><colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+      <tbody>
+        <row>
+          <entry>Total adult population over the age of 16</entry>
+          <entry>25,052,811 </entry>
+        </row>
+        <row>
+          <entry> In the labor force </entry>
+          <entry>14,706,000 (58.7%)</entry>
+        </row>
+        <row>
+          <entry> Employed </entry>
+          <entry>8,992,000</entry>
+        </row>
+        <row>
+          <entry> Unemployed </entry>
+          <entry>5,714,000</entry>
+        </row>
+        <row>
+          <entry> Out of the labor force </entry>
+          <entry>10,346,811 (41.3%)</entry>
+        </row>
+      </tbody>
+    
+
+
+
+
+
+
+</tgroup><caption>(Source: South Africa labor force participation rate: 2016)</caption>
+</table><para id="fs-idp44908512">In this example, the unemployment rate can be calculated as 5,714,000 unemployed people divided by 14,706,000 people in the labor force, which works out to a 38.9% rate of unemployment. The following Work It Out feature will walk you through the steps of this calculation.</para><note id="fs-idm9605232" class="economics workout">
+      <title>Calculating Labor Force Percentages </title>
+     <para id="fs-idp36088656">So how do economists arrive at the percentages in and out of the labor force and the unemployment rate? We will use the values in Table 1 to illustrate the steps. </para><para id="fs-idp33986688">To determine the percentage in the labor force: </para>
+     <para id="fs-idp1863200">Step 1. Divide the number of people in the labor force (14,706,000) by the total working-age population (25,052,811).</para><para id="fs-idp4314640">Step 2. Multiply by 100 to obtain the percentage.</para>
+     <equation id="fs-idm16459392"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Percentage in the labor force</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>14,706,000</m:mn></m:mrow><m:mrow><m:mn>25,052,811</m:mn></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>0.587</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>58.7%</m:mn></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idp12119168">To determine the percentage out of the labor force:</para>
+     <para id="fs-idp8782368">Step 1. Divide the number of people out the labor force (10,346,811) by the total working-age population (25,052,811). </para><para id="fs-idp41657808">Step 2. Multiply by 100 to obtain the percentage.</para>
+     <equation id="fs-idp59413632"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Percentage out of the labor force</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>10,346,811</m:mn></m:mrow><m:mrow><m:mn>25,052,811</m:mn></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>0.413</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>41.3%</m:mn></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idp18025952">To determine the unemployment rate:</para>
+     <para id="fs-idp57739824">Step 1. Divide the number of unemployed people (5,714,000) by the total labor force (14,706,000).</para><para id="fs-idm37410192">Step 2. Multiply by 100 to obtain the rate.</para><equation id="fs-idp183082448"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Unemployment rate</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>5,714,000</m:mn></m:mrow><m:mrow><m:mn>14,706,000</m:mn></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>389</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>38.9%</m:mn></m:mtd></m:mtr></m:mtable></m:math></equation></note>
+</section>
+
+
+<section id="fs-idm7306464"><title>Hidden Unemployment</title>
+<para id="fs-idp2207376">Even with the “out of the labor force” category, there are still some people that are mislabeled in the categorization of employed, unemployed, or out of the labor force. There are some people who have only part time or temporary jobs and who are looking for full time and permanent employment that are counted as employed, though they are not employed in the way they would like or need to be. Additionally, there are individuals who are <term>underemployed</term>. This includes those that are trained or skilled for one type or level of work who are working in a lower paying job or one that does not utilize their skills. For example, an individual with a university of technology or traditional university degree in accounting who is working as a sales clerk would be considered underemployed. They are, however, also counted in the employed group. All of these individuals fall under the umbrella of the term “<term class="no-emphasis">hidden unemployment</term>.” <term>Discouraged workers</term>, those who have stopped looking for employment and, hence, are no longer counted in the unemployed also fall into this group.</para><para id="eip-637"><title>Narrow versus broad definitions of unemployment</title>The question of who should be considered ‘unemployed’ is not without controversy. In 1998, Statistics South Africa officially adopted a “strict” definition of unemployment (Africa Check: 2014). This approach was in line with the International Labor Organization definition “used by more than eighty percent of both developed and less developed countries, and South Africa’s major trading partners”. The strict definition of unemployment regards a person as unemployed only if they have “taken active steps to look for work or to start some form of self-employment in the four weeks prior to the interview”. They are sometimes referred to as the “searching unemployed”.
+
+</para><para id="eip-178">The expanded or broad definition of unemployment, on the other hand, includes discouraged job-seekers: those that want to work but are not actively searching for a job as they have lost hope, wanted to work but there are no jobs in the area or were unable to find work that required their skills. They have been referred to as the “non-searching unemployed” (Africa Check: 2014). Depending on which definition of unemployment is used, the unemployment rate will vary. The expanded measure of unemployment tends to be considerably higher than the narrow or strict measure of unemployment. Which measure do you think is a more reliable estimate of the actual rate of unemployment in South Africa? </para></section>
+<section id="fs-idm44716656"><title>Labor Force Participation Rate</title>
+<para id="fs-idp42938000">Another important statistic is the <term>labor force participation rate</term>. This is the percentage of the population of working age who are either employed or who are unemployed and looking for a job. In fact we have already computed it as the percentage in the labor force. Those included in this calculation would be the 14,706,000 individuals in the labor force. The rate is calculated by taking the number of people in the labor force, that is, the number employed and the number unemployed, divided by the population of working age and multiplying by 100 to get the percentage.  For the data from June 2016, the labor force participation rate is 58.7%.</para><equation id="eip-337"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Labor force participation rate</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mtext>Labor force</m:mtext><m:mtext>Population of working age</m:mtext></m:mfrac></m:mtd></m:mtr></m:mtable><m:mo> × </m:mo><m:mn>100</m:mn></m:math></equation></section>
+<section id="fs-idp43412832"><title>Criticisms of Measuring Unemployment</title>
+<para id="fs-idp19293536">There are always complications in measuring the number of unemployed. For example, what about people who do not have jobs and would be available to work, but have gotten discouraged at the lack of available jobs in their area and stopped looking? Such people, and their families, may be suffering the pains of unemployment. But the survey counts them as out of the labor force because they are not actively looking for work. Other people may tell the Statistics South Africa survey workers that they are ready to work and looking for a job but, truly, they are not that eager to work and are not looking very hard at all. They are counted as unemployed, although they might more accurately be classified as out of the labor force. Still other people may have a job, perhaps doing something like yard work, child care, or cleaning houses, but are not reporting the income earned to the tax authorities. They may report being unemployed, when they actually are working.</para><para id="fs-idp33195632">Although the unemployment rate gets most of the public and media attention, economic researchers at  Statistics South Africa publish a wide range of surveys and reports that try to measure these kinds of issues and to develop a more complete view of the labor market (such as the the Quarterly Labour Force Survey). We have already noted from the chapter on economic growth that macroeconomic measures such as GDP and GNP can, at best, only be estimates and are not perfectly accurate measures. The same goes for measures of unemployment. However, imperfect measures can still be quite informative, when interpreted knowledgeably and sensibly.</para></section>
+
+
+<section id="fs-idm108841264" class="summary">
+  <title>Key Concepts and Summary</title>
+<para id="fs-idm63009776">Unemployment imposes high costs. Unemployed individuals suffer from loss of income and from stress. An economy with high unemployment suffers an opportunity cost of unused resources. The working age population can be divided into those in the labor force and those out of the labor force. In turn, those in the labor force are divided into employed and unemployed. A person without a job must be willing and able to work and actively looking for work to be counted as unemployed; otherwise, a person without a job is counted as being out of the labor force. The unemployment rate is defined as the number of unemployed persons divided by the number of persons in the labor force (not the working age population).</para></section>
+
+
+<section id="fs-idm16490656" class="self-check-questions">
+  <title>Self-Check Questions</title>
+  <exercise id="fs-idm30965072">
+    <problem id="fs-idm112267440">
+      <para id="fs-idp9612624">Suppose the working age population is 237.8 million and the labor force is 153.9 million (of whom 139.1 million are employed). How many people are “not in the labor force?” What are the proportions of employed, unemployed and not in the labor force in the population? <emphasis effect="italics">Hint</emphasis>: Proportions are percentages.</para></problem>
+    <solution id="fs-idm9437536"><para id="fs-idm14288">The working age population is divided into those “in the labor force” and those “not in the labor force.” Thus, the number of adults not in the labor force is 237.8 – 153.9 = 83.9 million. Since the labor force is divided into employed persons and unemployed persons, the number of unemployed persons is 153.9 – 139.1 = 14.8 million. Thus, the adult population has the following proportions:
+      <list id="fs-idm6497392" list-type="bulleted"><item>139.1/237.8 = 58.5% employed persons</item>
+<item>14.8/237.8 = 6.2% unemployed persons</item>
+<item>83.9/237.8 = 35.3% persons out of the labor force </item>
+      </list></para></solution>
+  </exercise>
+  <exercise id="fs-idm17318464"><problem id="fs-idm64848656">
+      <para id="fs-idm12613664">Using the above data, what is the unemployment rate? </para></problem>
+    <solution id="fs-idm25995408"><para id="fs-idm51565952">The unemployment rate is defined as the number of unemployed persons as a percentage of the labor force or 14.8/153.9 = 9.6%.</para></solution>
+  </exercise></section>
+
+
+
+
+
+<section id="fs-idm5551472" class="review-questions">
+  <title>Review Questions</title>
+  <exercise id="fs-idm73229136">
+    <problem id="fs-idp35593488">
+      <para id="fs-idp9107328">What is the difference between being unemployed and being out of the labor force?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm84512960">
+    <problem id="fs-idm37751168">
+      <para id="fs-idm3832592">How is the unemployment rate calculated? How is the labor force participation rate calculated?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm84828624">
+    <problem id="fs-idp11612000">
+      <para id="fs-idp9662416">Are all adults who do not hold jobs counted as unemployed?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idp12935696">
+    <problem id="fs-idm18542256">
+      <para id="fs-idp9841360">If you have completed university but are working only part time, are you considered employed or unemployed in South African labor statistics? If you are a full time student and working 12 hours a week as a temporary assistant in the student affairs section of the university are you considered employed or not in the labor force? If you are a senior citizen who is collecting a monthly pension and working as a sales assistant at Makro, are you considered employed or not in the labor force?</para></problem>
+  </exercise>
+  <exercise id="fs-idm107938544">
+    <problem id="fs-idm13066000">
+      <para id="fs-idm12509088">What happens to the strict or narrow unemployment rate when unemployed workers are reclassified as discouraged workers?</para></problem>
+  </exercise>
+  <exercise id="fs-idp12505360">
+    <problem id="fs-idm11722720">
+      <para id="fs-idm38805104">What happens to the labor force participation rate when employed individuals are reclassified as unemployed? What happens when they are reclassified as discouraged workers?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idp23213872">
+    <problem id="fs-idp11568912">
+      <para id="fs-idm8415328">What are some of the problems with using the unemployment rate as an accurate measure of overall joblessness?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm31620480">
+    <problem id="fs-idm9859104">
+      <para id="fs-idm84544528">What criteria are used by Statistics South Africa to count someone as strictly unemployed? As broadly unemployed?</para></problem>
+  </exercise>
+  <exercise id="fs-idp14339968">
+    <problem id="fs-idp12301200">
+      <para id="fs-idm18666080">Assess whether the following would be counted as strictly “unemployed” according to Statistics South Africa. 
+      <list id="fs-idm2666304" list-type="enumerated" number-style="lower-alpha"><item>A husband willingly stays home with children while his wife works.</item>
+<item>A manufacturing worker whose factory just closed down.</item>
+<item>A full time university student doing an unpaid internship/work experience.</item>
+<item>A retired person.</item>
+<item>Someone who has been out of work for two years but keeps looking for a job.</item>
+<item>Someone who has been out of work for two months but isn’t looking for a job.</item>
+<item>Someone who hates her present job and is actively looking for another one.</item>
+<item>Someone who decides to take a part time job because she could not find a full time position.</item>
+
+      </list></para></problem>
+  </exercise>
+</section>
+
+<section id="fs-idp14757664" class="critical-thinking">
+  <title>Critical Thinking Questions</title>
+  <exercise id="fs-idm84338128">
+    <problem id="fs-idm13074976">
+      <para id="fs-idm85424352">Using the definition of the unemployment rate, is an increase in the unemployment rate necessarily a bad thing for a nation?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm60279744">
+    <problem id="fs-idm12996320">
+      <para id="fs-idm15409568">Is a decrease in the unemployment rate necessarily a good thing for a nation? Explain.</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm11581328">
+    <problem id="fs-idm50528288">
+      <para id="fs-idm674848">If many workers become discouraged from looking for jobs, explain how the number of jobs could decline but the unemployment rate could fall at the same time.</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm40100176">
+    <problem id="fs-idm38620384">
+      <para id="fs-idm48931296">Would you expect hidden unemployment to be higher, lower, or about the same when the unemployment rate is high, say 15%, versus low, say 5%? Explain.</para></problem>
+  </exercise>
+</section>
+
+<section id="fs-idm85610352" class="problems">
+  <title>Problems</title>
+  <exercise id="fs-idm137514912">
+    <problem id="fs-idm59568720">
+      <para id="fs-idm54905424">A country with a working age population of eight million adults has five million employed, 500,000 unemployed, and the rest of the adult population is out of the labor force. What’s the unemployment rate? What share of population is in the labor force? Sketch a pie chart that divides the adult population into these three groups.</para></problem>
+  </exercise><section id="eip-1"><title>References</title><para id="eip-501">Africa Check. 2014. Unemployment statistics in S. Africa explained. Africa Check Fact Sheet, 2014. Available: https://africacheck.org/factsheets/factsheet-unemployment-statistics-in-south-africa-explained/  (Accessed: 30 July 2016)
+</para><para id="eip-35">South Africa Labor Force Participation Rate 2001-2016. 2016.  Trading Economics, July, 2016.  Available:  http://www.tradingeconomics.com/south-africa/labor-force-participation-rate   (Accessed: 30 July 2016)
+
+</para></section>
+</section></content>
+<glossary>
+   <definition id="fs-idm43157584">
+      <term>discouraged workers</term>
+      <meaning id="fs-idm28811424"> those who have stopped looking for employment due to the lack of suitable positions available</meaning>
+    </definition>
+   <definition id="fs-idm56912768">
+      <term>labor force participation rate</term>
+      <meaning id="fs-idp16719616">this is the percentage of adults in an economy who are either employed or who are unemployed and looking for a job</meaning>
+    </definition>
+   <definition id="fs-idm70411056">
+      <term>out of the labor force</term>
+      <meaning id="fs-idm61397296">those who are not working and not looking for work—whether they want employment or not; also termed “not in the labor force”</meaning>
+    </definition>
+   <definition id="fs-idp17525824">
+      <term>underemployed</term>
+      <meaning id="fs-idm48713408">individuals who are employed in a job that is below their skills</meaning>
+    </definition>
+   <definition id="fs-idm43319232">
+      <term>unemployment rate</term>
+      <meaning id="fs-idm67812384">the percentage of adults who are in the labor force and thus seeking jobs, but who do not have jobs</meaning>
+    </definition>
+</glossary>
+
+</document>

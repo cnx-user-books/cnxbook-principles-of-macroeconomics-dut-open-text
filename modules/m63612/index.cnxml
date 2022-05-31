@@ -1,0 +1,68 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Tracking Real GDP over Time</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63612</md:content-id>
+  <md:title>Tracking Real GDP over Time</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Explain recessions, depressions, peaks, and troughs</item>
+<item>Evaluate the importance of tracking real GDP over time</item>
+<item>Analyze the impact of economic fluctuations on a country’s output and price level</item>
+</list></md:abstract>
+  <md:uuid>3c674ac1-68fb-4ddd-9c1b-f94986be9cc1</md:uuid>
+</metadata>
+
+<content>
+<code id="eip-950" display="block"><media id="fs-idm000000119" alt="The graph illustrates that both real GDP and real GDP per capita have substantially increased since 1900.">
+      <image mime-type="image/jpeg" src="../../media/gdptracker.jpeg"/>
+    </media><caption><term>Figure 1.</term></caption></code><para id="fs-idp94661760">When news reports indicate that “the economy grew 1.2% in the first quarter,” the reports are referring to the percentage change in real GDP. By convention, GDP growth is reported at an annualized rate: Whatever the calculated growth in real GDP was for the quarter (the three months in question), it is multiplied by four (there are four quarters in a year) when it is reported as if the economy were growing at that rate for a full year.</para><code id="eip-62" display="block"><media id="fs-idm000000116" alt="The graph illustrates that both real GDP and real GDP per capita have substantially increased since 1900.">
+      <image mime-type="image/jpeg" src="../../media/bus.cycle2.jpg"/>
+    </media><caption><term>Figure 2. </term> Removing the effects of inflation, South Africa's Real GDP (the production of physical goods and services) in 2014 was about six times bigger than in 1960. (Source: South Africa Data Portal, 2016)</caption></code><para id="fs-idp4304016">Figure 2 shows the pattern of South African real GDP (base year = 2005) since 1960. The generally upward long-term path of GDP has been regularly interrupted by short-term declines. A significant decline in real GDP is called a <term>recession</term>. An especially lengthy and deep recession is called a <term>depression</term>. Notable declines in real GDP which occurred in the early-to-mid '80's, early '90's and again in 2008-2009 are circled in Figure 2. </para><para id="fs-idp75162576">Real GDP is important because it is highly correlated with other measures of economic activity, like employment and unemployment. When real GDP rises, so does employment.</para>
+<para id="fs-idp2371200">The most significant human problem associated with recessions (and their larger, uglier cousins, depressions) is that a slowdown in production means that firms need to lay off or fire some of the workers they have. Losing a job imposes painful financial and personal costs on workers, and often on their extended families as well. In addition, even those who keep their jobs are likely to find that wage increases are small at best—or they may even be asked to take pay cuts.</para><para id="fs-idm76443104">The fluctuations of real GDP over time can be plotted as a line chart as in Figure 3. The highest point of the economy, before the recession begins, is called the <term>peak</term>; conversely, the lowest point of a recession, before a recovery begins, is called the <term>trough</term>. Thus, a recession lasts from peak to trough, and an economic expansion or upswing runs from trough to peak. The movement of the economy from peak to trough and trough to peak is called the <term>business cycle</term>. The durations of the various phases of the business cycle tend to be irregular and may last from six months or a year to several years. Nobody knows for sure why they occur and why these patterns repeat themselves over time.</para><code id="eip-727" display="block"><media id="fs-idm000000117" alt="stylised business cycle.">
+      <image mime-type="image/jpeg" src="../../media/businesscyclegdp.jpg"/>
+    </media><caption><term>Figure 3. </term> A simplified sketch of the business cycle showing its four phases (Source: FactReal, 2013) </caption></code><section id="fs-idp17544032" class="summary">
+  <title>Key Concepts and Summary</title>
+<para id="fs-idm24831088">Over the long term, South African real GDP has increased dramatically. At the same time, GDP has not increased the same amount each year. The speeding up and slowing down of GDP growth represents the business cycle. When GDP declines significantly, a recession occurs. A longer and deeper decline is a depression. Recessions begin at the peak of the business cycle and end at the trough.</para></section>
+<section id="fs-idp158656" class="self-check-questions">
+  <title>Self-Check Questions</title>
+  <exercise id="fs-idm35530192">
+    <problem id="fs-idp4421712">
+      <para id="fs-idm16923200">Revisit Figure 2. Can you identify any periods other than the three circled recessions in which South African economic growth slowed down or even stopped. What would have been the consequences of this (This requires a judgement call.)</para></problem>
+    <solution id="fs-idm18437456"><para id="fs-idp157584">Economic growth slowed down and levelled out to some extent in the late 1970's, late 1980's and then again in the late 1990's. This would have resulted in slowing employment and rising unemployment as firms laid off workers (due to falling sales and production) which, in turn, would have increased poverty levels.</para></solution>
+  </exercise>
+  </section>
+<section id="fs-idp1212272" class="critical-thinking">
+  <title>Critical Thinking Questions</title>
+  <para id="eip-560"><title>Exercise 2</title>Why do you suppose that South Africa's GDP is so much higher today than 50 or 100 years ago?</para><para id="eip-10"><title>Exercise 3</title>Why do you think that GDP does not grow at a steady rate, but rather speeds up and slows down?</para></section>
+<section id="fs-idm81210160" class="references">
+<title>References</title>
+<para id="eip-978">[Graphic of the Business Cycle] In: Obama’s is the worst economic recovery in history.  FactReal, February 16, 2013. Available:  https://factreal.wordpress.com/2013/02/16/obamas-is-the-worst-economic-recovery-in-history-graph-gdp-data/  (Accessed: 20 July 2016)
+</para><para id="eip-52">Kolesnikov, I. 2016. GDP by country, 1980-2015. South Africa.  IMF World Economic Outlook (WEO) April 2016. South African Data Portal, May 25 2016. Available: http://southafrica.opendataforafrica.org/tbocwag/gdp-by-country-1980-2015?country=South%20Africa  (Accessed: 20 July 2016)
+</para></section>
+
+</content>
+<glossary>
+   <definition id="fs-idp4290944">
+      <term>business cycle</term>
+      <meaning id="fs-idp3873088">the relatively short-term movement of the economy in and out of recession</meaning>
+    </definition>
+   <definition id="fs-idp27754240">
+      <term>depression</term>
+      <meaning id="fs-idp10759360">an especially lengthy and deep decline in output</meaning>
+    </definition>
+   <definition id="fs-idp26586384">
+      <term>peak</term>
+      <meaning id="fs-idm87433472">during the business cycle, the highest point of output before a recession begins</meaning>
+    </definition>
+   <definition id="fs-idp3736448">
+      <term>recession</term>
+      <meaning id="fs-idm14196896">a significant decline in national output</meaning>
+    </definition>
+   <definition id="fs-idp1056848">
+      <term>trough</term>
+      <meaning id="fs-idm42687872">during the business cycle, the lowest point of output in a recession, before a recovery begins</meaning>
+    </definition>
+</glossary>
+
+</document>
