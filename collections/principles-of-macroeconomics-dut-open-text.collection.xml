@@ -1,393 +1,111 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook" authors="Alex Van der Merwe">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col12131</md:content-id>
-  <md:title>PRINCIPLES OF MACROECONOMICS - DUT OPEN TEXT</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>94c3e5ab-d4d0-4a84-bd41-93c4ca27e1fb</md:uuid>
-<md:slug>principles-of-macroeconomics-dut-open-text</md:slug>
-</metadata>
-
+    <md:content-id>col12131</md:content-id>
+    <md:title>PRINCIPLES OF MACROECONOMICS - DUT OPEN TEXT</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>94c3e5ab-d4d0-4a84-bd41-93c4ca27e1fb</md:uuid>
+    <md:slug>principles-of-macroeconomics-dut-open-text</md:slug>
+  </metadata>
   <col:content>
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 1 - Economic Growth and Development</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m63585"/>
-        
-      
-    
-    
-      <col:module document="m63586"/>
-        
-      
-    
-    
-      <col:module document="m63587"/>
-        
-      
-    
-    
-      <col:module document="m63612"/>
-        
-      
-    
-    
-      <col:module document="m63614"/>
-        
-      
-    
-    
-      <col:module document="m63613"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 2 - Unemployment</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m63652"/>
-        
-      
-    
-    
-      <col:module document="m63653"/>
-        
-      
-    
-    
-      <col:module document="m63660"/>
-        
-      
-    
-    
-      <col:module document="m63661"/>
-        
-      
-    
-    
-      <col:module document="m63662"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 3 - Inflation</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m63615"/>
-        
-      
-    
-    
-      <col:module document="m63616"/>
-        
-      
-    
-    
-      <col:module document="m63617"/>
-        
-      
-    
-    
-      <col:module document="m63651"/>
-        
-      
-    
-    
-      <col:module document="m63636"/>
-        
-      
-    
-    
-      <col:module document="m63650"/>
-        
-      
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 4 - The Aggregate Demand/Aggregate Supply Model</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m63663"/>
-        
-      
-    
-    
-      <col:module document="m63781"/>
-        
-      
-    
-    
-      <col:module document="m63664"/>
-        
-      
-    
-    
-      <col:module document="m63668"/>
-        
-      
-    
-    
-      <col:module document="m63666"/>
-        
-      
-    
-    
-      <col:module document="m63667"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 5 - The Keynesian Alternative to the Aggregate Demand/Aggregate Supply Model</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m63669"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 6 - The Roles of Government in  Market Economy</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m63694"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 7 - Government Budgets and Fiscal Policy</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m63704"/>
-        
-      
-    
-    
-      <col:module document="m63703"/>
-        
-      
-    
-    
-      <col:module document="m63705"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 8 - Money and Banking</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m63707"/>
-        
-      
-    
-    
-      <col:module document="m63708"/>
-        
-      
-    
-    
-      <col:module document="m63715"/>
-        
-      
-    
-    
-      <col:module document="m63728"/>
-        
-      
-    
-    
-      <col:module document="m63718"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 9 - Monetary Policy and Bank Regulation</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m63730"/>
-        
-      
-    
-    
-      <col:module document="m63731"/>
-        
-      
-    
-    
-      <col:module document="m63732"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 10 - International Trade</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m63741"/>
-        
-      
-    
-    
-      <col:module document="m63742"/>
-        
-      
-    
-    
-      <col:module document="m63750"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 11 - Globalisation and Protectionism</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m63759"/>
-        
-      
-    
-    
-      <col:module document="m63760"/>
-        
-      
-    
-    
-      <col:module document="m63761"/>
-        
-      
-    
-    
-      <col:module document="m63762"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
+    <col:subcollection>
+      <md:title>Chapter 1 - Economic Growth and Development</md:title>
+      <col:content>
+        <col:module document="m63585"/>
+        <col:module document="m63586"/>
+        <col:module document="m63587"/>
+        <col:module document="m63612"/>
+        <col:module document="m63614"/>
+        <col:module document="m63613"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 2 - Unemployment</md:title>
+      <col:content>
+        <col:module document="m63652"/>
+        <col:module document="m63653"/>
+        <col:module document="m63660"/>
+        <col:module document="m63661"/>
+        <col:module document="m63662"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 3 - Inflation</md:title>
+      <col:content>
+        <col:module document="m63615"/>
+        <col:module document="m63616"/>
+        <col:module document="m63617"/>
+        <col:module document="m63651"/>
+        <col:module document="m63636"/>
+        <col:module document="m63650"/>
+        <col:subcollection>
+          <md:title>Chapter 4 - The Aggregate Demand/Aggregate Supply Model</md:title>
+          <col:content>
+            <col:module document="m63663"/>
+            <col:module document="m63781"/>
+            <col:module document="m63664"/>
+            <col:module document="m63668"/>
+            <col:module document="m63666"/>
+            <col:module document="m63667"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 5 - The Keynesian Alternative to the Aggregate Demand/Aggregate Supply Model</md:title>
+      <col:content>
+        <col:module document="m63669"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 6 - The Roles of Government in  Market Economy</md:title>
+      <col:content>
+        <col:module document="m63694"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 7 - Government Budgets and Fiscal Policy</md:title>
+      <col:content>
+        <col:module document="m63704"/>
+        <col:module document="m63703"/>
+        <col:module document="m63705"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 8 - Money and Banking</md:title>
+      <col:content>
+        <col:module document="m63707"/>
+        <col:module document="m63708"/>
+        <col:module document="m63715"/>
+        <col:module document="m63728"/>
+        <col:module document="m63718"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 9 - Monetary Policy and Bank Regulation</md:title>
+      <col:content>
+        <col:module document="m63730"/>
+        <col:module document="m63731"/>
+        <col:module document="m63732"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 10 - International Trade</md:title>
+      <col:content>
+        <col:module document="m63741"/>
+        <col:module document="m63742"/>
+        <col:module document="m63750"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 11 - Globalisation and Protectionism</md:title>
+      <col:content>
+        <col:module document="m63759"/>
+        <col:module document="m63760"/>
+        <col:module document="m63761"/>
+        <col:module document="m63762"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
